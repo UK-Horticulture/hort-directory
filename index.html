@@ -123,12 +123,17 @@
   h1 {
     color: #005d7e;
     font-weight: bold;
-    font-size: 120%;
+    font-size: 125%;
   }
   h2 {
       color: #005d7e;
       font-weight: bold;
-      font-size: 110%;
+      font-size: 115%;
+  }
+  h3 {
+      color: #005d7e;
+      font-weight: bold;
+      font-size: 105%;
   }
   a {
       color: #005d7e;
@@ -165,7 +170,14 @@
         <p>Map <b>resources can be turned on and off</b> by type in the <b>legend at the top right</b>.</p><br>
         <p>The <b>search box</b> allows users to enter a physical address, city name, or zipcode to <b>place a marker</b>.</p><br>
       <p>The primary data source is the <a href="https://agpolicy.ky.gov/Pages/default.aspx" target="_blank">Governor's
-        Office of Agricultural Policy</a>. Funding and support provided by the
+        Office of Agricultural Policy</a>.<br><br></p>
+        <p><center>
+          <a href="https://agpolicy.ky.gov/board/Pages/default.aspx" target="_blank"><img src="/images/kadf-logo-footer.gif" hspace="20" vspace="20" border="5"></a>
+           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+           <a href="http://kyhortcouncil.org/" target="_blank"><img src="/images/khc-logo-footer.gif" hspace="20" vspace="20" border="5"></a>
+          </center>
+        </p>
+        <p><br>Funding and support provided by the
         <a href="https://agpolicy.ky.gov/board/Pages/default.aspx" target="_blank">Kentucky Agricultural
           Development Board</a> through the <a href="http://kyhortcouncil.org/" target="_blank">
             Kentucky Horticulture Council</a>.</p>
@@ -258,9 +270,6 @@
             "<h2>" + props.resource_t + "</h2>" + "<b>" + props.org_name + "</b>" +
             "<p>" + props.address + "<br><br><b>Contact Information:  <br></b>" + props.contact_na + "<br>" +
             props.contact_ti + "<br>" + props.phone + "<br><a href='mailto:" + props.email + "'>" + props.email + "</a></p></p>";
-            // layer.on('click', function() {
-            //   layer.bindPopup(locationPopup);
-            // });
             layer.bindPopup(locationPopup);
         }
       }).addTo(map);
@@ -276,9 +285,6 @@
               "<h2>" + props.resource_t + "</h2>" +  props.optional_r + "<br><b>" + props.org_name + "</b>" +
               "<p>" + props.address + "<br><br><b>Contact Information:  <br></b>" + props.contact_na + "<br>" +
               props.contact_ti + "<br>" + props.phone + "<br><a href='mailto:" + props.email + "'>" + props.email + "</a></p></p>";
-              // layer.on('click', function() {
-              //   layer.bindPopup(locationPopup);
-              // });
               layer.bindPopup(locationPopup)
           }
       }).addTo(map);
