@@ -174,7 +174,7 @@
         <p><center>
           <a href="https://agpolicy.ky.gov/board/Pages/default.aspx" target="_blank"><img src="images/kadf-logo-footer.gif" hspace="20" vspace="20" border="5"></a>
            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-           <a href="http://kyhortcouncil.org/" target="_blank"><img src="images/khc-logo-footer.gif" hspace="20" vspace="20" border="5"></a>
+           <a href="http://kyhortcouncil.org/" target="_blank"><img src="images/khc-logo-footer.jpg" width="185" height="110" hspace="20" vspace="20" border="5"></a>
           </center>
         </p>
         <p><br>Funding and support provided by the
@@ -241,6 +241,12 @@
         popupAnchor: [0, -15]
     });
 
+    var auctionIcon = L.icon({
+        iconUrl: "./icons/auction.png",
+        iconSize: [35, 35],
+        popupAnchor: [0, -15]
+    });
+
   // load KY county polygons
   $.getJSON("./data/ky-counties.geojson", function(counties) {
 
@@ -289,16 +295,33 @@
           }
       }).addTo(map);
 
+      var auctionLayer = L.geoJson(data, {
+        filter: auctionFilter,
+          pointToLayer: function(feature,latlng) {
+              return L.marker(latlng, {icon: auctionIcon});
+            },
+            onEachFeature : function(feature,layer) {
+              var props = feature.properties;
+              var locationPopup =
+                "<h2>" + props.resource_t + "</h2><br><b>" + props.org_name + "</b>" +
+                "<p>" + props.address + "<br><br><b>Contact Information:  <br></b>" + props.contact_na + "<br>" +
+                props.contact_ti + "<br>" + props.phone + "<br>" + props.optional_r + "<br><a href='" + props.email + "'>Auction Schedule and Price Reports</a></p></p>";
+                layer.bindPopup(locationPopup)
+            }
+        }).addTo(map);
+
     // create object of all layers
     var geoJsonLayers = {
           greenhouseLayer: greenhouseLayer,
           equipmentLayer: equipmentLayer,
+          auctionLayer: auctionLayer,
     };
 
     // legend for turning on/off layers
     var sourcesLabels = {
-      "<img src='icons/flower.png' height='35' width='35'><b>Educational Greenhouses</b>": geoJsonLayers.greenhouseLayer,
-      "<img src='icons/equipment.png' height='25' width='35'><b>Shared Equipment</b>": geoJsonLayers.equipmentLayer,
+      "<img src='icons/flower.png' height='35' width='35'><b>&nbsp;Educational Greenhouses</b>": geoJsonLayers.greenhouseLayer,
+      "<img src='icons/equipment.png' height='25' width='35'><b>&nbsp;Shared Equipment</b>": geoJsonLayers.equipmentLayer,
+      "<img src='icons/auction.png' height='34' width='35'><b>&nbsp;Produce Auction</b>": geoJsonLayers.auctionLayer,
     };
 
     L.control.layers(null, sourcesLabels, { collapsed:false }).addTo(map);
@@ -333,6 +356,11 @@
     function equipmentFilter(feature) {
       if (feature.properties.resource_t === "Shared Equipment") return true
     }
+
+    function auctionFilter(feature) {
+      if (feature.properties.resource_t === "Produce Auction") return true
+    }
+
 
   } // end drawMap()
 
