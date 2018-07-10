@@ -65,8 +65,171 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -85.2138428,37.7077326,Educational Greenhouse,Washington County High School,"300 US-150, Springfield, KY 40069",Bart Mattingly,Ag Teacher,(859) 336-5475,bart.mattingly@washington.kyschools.us,
 -87.7130614,37.499073,Educational Greenhouse,Webster County High School,"1922 Us Highway 41A S, Dixon, KY 42409",Margo Bruce,Ag Teacher,,margo.bruce@webster.kyschools.us,
 -84.7318011,38.0623693,Educational Greenhouse,Woodford County High School,"180 Frankfort St, Versailles, KY 40383",Tracy Probst,,(859) 619-1041,tracy.probst@woodford.kyschools.us,
--84.939888,37.194364,Produce Auction,Casey County Produce Auction,"524 S Fork Creek Rd, Liberty, KY 42539",,,Office:  (606) 787-5158,http://www.uky.edu/ccd/pricereports/KYPA/casey,Market Info:  (606) 787-0570
--87.30877,36.84835,Produce Auction,Fairview Produce Auction,"10292 US Hwy 68E, Pembroke, KY 42266",,,Office:  (270) 887-0053,http://www.uky.edu/ccd/pricereports/KYPA/fairview,Market Info:  (270) 712-8502
--85.972379,37.293561,Produce Auction,Hart County Produce Auction,"6880 Cub Run Hwy, Munfordville, KY 42765",,,Office:  (270) 624-0005,http://www.uky.edu/ccd/pricereports/KYPA/hart,
--84.514334,37.502641,Produce Auction,Lincoln County Produce Auction,"2896 KY Hwy 39 N, Crab Orchard, KY 40419",,,Office:  (606) 355-0030,http://www.uky.edu/ccd/pricereports/KYPA/lincoln,Market Info:  (606) 355-0001
--83.71597,38.137246,Produce Auction,Bath County Produce Auction,"2914 East Hwy 60, Owingsville, KY 40360",Dan Miller,Auction Manager,Office:  (606) 336-0103,http://www.uky.edu/ccd/pricereports/KYPA/bath,
+-84.939888,37.194364,Produce Auction,Casey County Produce Auction,"524 S Fork Creek Rd, Liberty, KY 42539",,,(606) 787-5158,http://www.uky.edu/ccd/pricereports/KYPA/casey,(606) 787-0570
+-87.30877,36.84835,Produce Auction,Fairview Produce Auction,"10292 US Hwy 68E, Pembroke, KY 42266",,,(270) 887-0053,http://www.uky.edu/ccd/pricereports/KYPA/fairview,(270) 712-8502
+-85.972379,37.293561,Produce Auction,Hart County Produce Auction,"6880 Cub Run Hwy, Munfordville, KY 42765",,,(270) 624-0005,http://www.uky.edu/ccd/pricereports/KYPA/hart,
+-84.514334,37.502641,Produce Auction,Lincoln County Produce Auction,"2896 KY Hwy 39 N, Crab Orchard, KY 40419",,,(606) 355-0030,http://www.uky.edu/ccd/pricereports/KYPA/lincoln,(606) 355-0001
+-83.71597,38.137246,Produce Auction,Bath County Produce Auction,"2914 East Hwy 60, Owingsville, KY 40360",Dan Miller,Auction Manager,(606) 336-0103,http://www.uky.edu/ccd/pricereports/KYPA/bath,
+-85.751283,38.2556928,Farmers' Market,4th Street Live Farmers' Market,"Louisville, KY 40202",Ken Stanfield,,(502) 741-7139,director@louisvillegrows.org,
+-85.3136218,37.076403,Farmers' Market,Adair County Farmers' Market,"Columbia, KY 42728",Nick Roy,,(270) 384-2317,nick.roy@uky.edu,
+-86.1905424,36.7533781,Farmers' Market,Allen County Scottsville Farmers' Market,"Scottsville, KY 42164",Lori Hogue,,(270) 237-1958,hoguefarms@outlook.com,
+-84.8966171,38.0372967,Farmers' Market,Anderson County Farmers' Market (The Old Depot),"Lawrenceburg, KY 40342",Nathan H. Truesdell,,(502) 859-4845,nathan@circle-t-farms.com,
+-88.9736762,37.0767199,Farmers' Market,Ballard County Farmers' Market,"La Center, KY 42056",Tracy Hobbs,,(270) 462-2394,thobbs@brtc.net,
+-85.4669025,37.8092279,Farmers' Market,Bardstown Farmers' Market,"Bardstown, KY 40004",Robbie Smith,,(502) 348-9204,robsmith@uky.edu,
+-85.702868,38.2292332,Farmers' Market,Bardstown Road Farmers' Market,"1722 Bardstown Road Louisville, KY 40205",Stan Gentle,,,dreamcatcherfarm@bellsouth.net,http://www.bardstownroadfarmersmarket.com
+-85.91,37,Farmers' Market,Barren County Regional Farmers' Market,"Glasgow, KY 42142",Daniel Hodges,,(270) 670-9783,sdhodges@glasgow-ky.com,
+-83.71597,38.1372463,Farmers' Market,Bath County Farmers' Market,"2914 East Highway 60 Owingsville, KY 40360",Robert Amburgey,,(606) 674-6121,ramburge@uky.edu,
+-86.8758256,37.4019918,Farmers' Market,Beaver Dam Farmers' Market,"Beaver Dam, KY 42320",Alisa Pharis,,(270) 274-7106,bdcity@bellsouth.net,
+-85.7769164,38.1459555,Farmers' Market,Beechmont Open Air Farmers' Market,"Louisville, KY 40214",Tamara Brown,,(502) 551-6679,flourgirlcatering@yahoo.com,
+-84.3,37.57,Farmers' Market,Berea Farmers' Market Inc,"Berea, KY 40404",Faye Adams-Eaton,,(859) 813-0750,bereafarmersmarket859@gmail.com,http://www.bereafarmersmarket.org
+-85.316622,37.9103403,Farmers' Market,"Bloomfield Farmers' Market ""From the Field""","Bloomfield, KY 40008",Laura Barnett,,(502) 252-9232,barnettt22@yahoo.com,
+-84.5012435,38.1248882,Farmers' Market,Blue Grass Stockyards Farmers' Market,"Lexington, KY 40511",Andre' Barbour,,(270) 777-5881,barbourfreshmeat@hotmail.com,http://www.bgregionalmarketplace.com
+-84.027427,38.3120197,Farmers' Market,Blue Licks Farmers' Market,"Carlisle, KY 40311",Jeanine Gallagher,,(606) 724-5906,jeaninegallagher10@hotmail.com,
+-84.375233,37.9923606,Farmers' Market,Bluegrass Farmers' Market,"Lexington, KY 40509",Babette Overman,,(703) 586-7278,bsoverman@gmail.com,http://www.bluegrassfarmersmarket.org
+-84.7241133,39.02756,Farmers' Market,Boone County Farmers Market,"Burlington, KY 41005",Coy Wilson,,(859) 586-6101,coy.wilson@uky.edu,http://www.boonecountyfarmersmarket.org
+-85.91,37,Farmers' Market,Bounty Of The Barrens Farmers' Market,"Glasgow, KY 42142",Josh Johnson,,(270) 646-7357,brandi.button@wku.edu,http://www.bountyofthebarrens.com
+-86.4808043,36.9685219,Farmers' Market,Bowling Green Farmers' Market,"Bowling Green, KY 42101",Dorothy Richmond,,(270) 392-4206,dorothyrichmond12@yahoo.com; jcingram@twc.com,
+-82.6537455,38.4803833,Farmers' Market,Boyd County Farmers' Market,"Ashland, KY 41101",Lori Bowling,,(606) 739-5184,lori.bowling@uky.edu,
+-84.7721702,37.6456329,Farmers' Market,Boyle County Farmers' Market,"Danville, KY 40422",John Wyatt,,(859) 229-5504,boyleco.farmersmarket@gmail.com,http://www.eatlocaldanville.org
+-84.0657632,38.6825719,Farmers' Market,Bracken County Farmers' Market,"Brooksville, KY 41004",Ella Bowling,,(606) 782-0192,ebowling82@gmail.com,
+-84.4919005,38.0597099,Farmers' Market,Bread Box Farmers' Market,"501 West Sixth Street Lexington, KY 40508",Eryn Clayton,,(859) 967-6951,eryn@westsixth.com,http://www.breadboxlex.com
+-83.3835135,37.5531457,Farmers' Market,Breathitt County Farmers' Market (Formerly known as UK Robinson Center Farm,"Jackson, KY 41339",Reed Graham,,(606) 666-8812,reed.graham@uky.edu,
+-86.4605337,37.7800591,Farmers' Market,Breckinridge County Farmers' Produce Market,"Hardinsburg, KY 40143",Carol M. Hinton,,(270) 756-2182,cmhinton@uky.edu,http://www.local-farmers-markets.com/market/1862/hardinsburg/breckinridge-cou
+-84.4138259,37.4042496,Farmers' Market,Brodhead Farmers' Market,"Brodhead, KY 40409",Jennifer Bauer,,(443) 617-5071,brodheadfarmersmarket@gmail.com,
+-85.3705186,36.7903399,Farmers' Market,Burkesville Farmers' Market,"Burkesville, KY 42717",Kay Williams,,(270) 433-7400,cumberland.k@gmail.com,http://www.cumberlandcountyfood.com
+-87.835295,36.8650496,Farmers' Market,Cadiz - Trigg County Farmers' Market,"Cadiz, KY 42211",Leida Underhill,,(270) 522-8756,lunderhill@cityofcadiz.com,
+-87.8819594,37.1092162,Farmers' Market,Caldwell County Farmers' Market,"Princeton, KY 42445",Stephen Shafer,,,shafer78@yahoo.com,
+-84.4518854,39.0331169,Farmers' Market,"Campbell County Farmers' Market, Inc.","Highland Heights, KY 41076",Susan Turner,,(859) 380-0742,sortliebturner@zoomtown.com,
+-82.9485023,38.3325812,Farmers' Market,Carter County Farmers' Market,"Grayson, KY 41143",Myron Evans,,(606) 474-6686,mevans@uky.edu,
+-85.9838273,37.8108517,Farmers' Market,City Of Vine Grove Farmers' Market,"300 West Main Street Vine Grove, KY 40175",Jackie Johnson,,(270) 877-2422,jackie@vinegrove.org,http://www.vinegrove.org
+-82.8268265,37.1184318,Farmers' Market,City of Whitesburg/Letcher County Farmers' Market,"Whitesburg, KY 41858",Louise Murtaugh,,,murtaughlouise@gmail.com,http://www.letchercountyfarmersmarket.com
+-83.7618641,37.1537007,Farmers' Market,Clay County Community Farmers' Market,"Manchester, KY 40962",Melissa Wyatt,,(606) 598-2789,jcasada@uky.edu,http://www.claycountyfarmersmarket.com/
+-85.1346776,36.6908991,Farmers' Market,Clinton County Farmers' Market,"Albany, KY 42602",Bobby Reneau,,(606) 387-5404,colby.guffey@uky.edu,
+-86.4808043,36.9685219,Farmers' Market,Community Farmers' Market,"Bowling Green, KY 42101",Susan Warrell,,(270) 202-3971,communityfarmersmarketbg@gmail.com,http://www.communityfarmersmarketbg.com
+-87.983914,37.5467135,Farmers' Market,Country Fresh Farmers' Market,"Sturgis, KY 42459",Cathy Arnold,,(270) 333-0280,cathy.arnold@countryfreshsturgis.com,http://www.countryfreshsturgis.com
+-84.5274616,39.073028,Farmers' Market,Covington Farmers' Market,"Covington, KY 41011",Megan Ayers,,(859) 261-7111,meganayers@rcov.org,http://www.rcov.org/covfarmersmarket
+-85.6975327,38.253122,Farmers' Market,Crescent Hill UMC Farmers' Market,"201 S. Peterson Avenue Louisville, KY 40206",Amanda Cotrell,,(502) 882-2811,ariesdiva1116@gmail.com,
+-85.3705186,36.7903399,Farmers' Market,Cumberland County Farmers' Market,"Burkesville, KY 42717",Chelsey Anderson,,(270) 433-7700,capick3@uky.edu,
+-87.6925074,37.1672684,Farmers' Market,Dawson Springs Farmers' Market,"Dawson Springs, KY 42408",Erika Lyons,,(270) 821-3650,erika.lyons@uky.edu,
+-85.6794434,38.2214782,Farmers' Market,Douglass Loop Farmers Market,"Louisville, KY 40205",Chloe Guenther,,(502) 452-2629,douglassloopfarmersmarket@gmail.com,http://www.douglassloopfarmersmarket.com
+-88.3017943,36.6096151,Farmers' Market,Downtown Farmers' Market,"201 S 4Th Street Murray, KY 42071",Deana Wright,,(270) 759-9474,murraymainstreet@murray-ky.net,http://www.murrayfarmersmarket.com
+-85.4478726,38.2601333,Farmers' Market,Eastwood Village Farmers' Market,"Louisville, KY 40245",Dennis Benzel,,,dennisbenzel@gmail.com,
+-86.2677545,37.1925472,Farmers' Market,Edmonson County Farmers' Market,"Brownsville, KY 42210",David Embrey,,(270) 597-3628,david.embrey@uky.edu,
+-83.1262839,38.0864739,Farmers' Market,Elliott County Farmers' Market,"Sandy Hook, KY 41171",Keith Center,,(606) 738-6400,keith.center@uky.edu,
+-83.973813,37.700638,Farmers' Market,Estill County Farmers' Market,"Irvine, KY 40336",Hannah Eaton,,(606) 726-0679,estillcountyfarmersmarket@gmail.com,
+-84.5599169,39.0472046,Farmers' Market,Farmers Market At DCCH,"Ft Mitchell, KY 41017",Jeannie Carnes,,(859) 393-8477,gonetopotflowers@yahoo.com,http://www.dcchfarmersmarket.com
+-85.2221819,37.6853413,Farmers' Market,Farmers' Market At The Depot,"Springfield, KY 40069",Kathy Elliott,,(859) 336-5440,springfieldcityprojects@gmail.com,
+-85.4988548,37.2608936,Farmers' Market,Farmers' Market on Green River,"Greensburg, KY 42743",Jaclyn Hodges,,(270) 932-4341,jaclyne.hodges@lcdhd.org,
+-87.9166915,37.6833776,Farmers' Market,Farmers' Market On Main,"Morganfield, KY 42437",Josie Watson,,(270) 952-6307,bellswhistles112@gmail.com,
+-85.3136218,37.076403,Farmers' Market,"Farmers' Market On The Square, LLC","Columbia, KY 42728",Darrell Andrew,,,darrell@duo-county.com,
+-83.7338076,38.4222995,Farmers' Market,Fleming County Farmers' Market,"Flemingsburg, KY 41041",Rose Ann Masters,,(606) 849-4969,roseann@mastersacres.com,
+-82.7715486,37.6656527,Farmers' Market,Floyd County Farmers' Market,"Prestonsburg, KY 41653",Chris Steele,,(606) 263-1669,fcfm2017@yahoo.com,
+-84.4540213,39.0799481,Farmers' Market,Fort Thomas Farmers' Market,"Ft Thomas, KY 41075",Debbie Buckley,,(859) 441-1055,dbuckley@ftthomas.org,http://ftthomas.org
+-84.8732835,38.2009055,Farmers' Market,Franklin County Farmers' Market,"Frankfort, KY 40601",Lee Ann Jones,,(502) 695-9035,jones751@bellsouth.net,http://www.franklincountyfarmersmarket.org/
+-86.5772177,36.722263,Farmers' Market,Franklin-Simpson Farmers' Market,"Franklin, KY 42134",Jason Phillips,,(270) 586-4484,jason.phillips1@uky.edu,http://simpson.ca.uky.edu/
+-88.8742259,36.5042277,Farmers' Market,Fulton County Farmers' Market,"Fulton, KY 42041",Penny Fleming,,(731) 335-3100,pennyjofleming@yahoo.com,
+-84.5779957,37.6195246,Farmers' Market,Garrard County Farmers Market,"Lancaster, KY 40444",Jay Hettmansperger,,(859) 792-3026,jay.hettmansperger@uky.edu,
+-84.5604977,38.6381245,Farmers' Market,Grant County Farmers' Market,"Williamstown, KY 41097",Debby Lucas Angel,,(859) 824-3355,gc_fm@yahoo.com,
+-85.751283,38.2556928,Farmers' Market,Gray Street Farmers' Market,"Louisville, KY 40202",Sara Frazier,,(502) 852-6655,farmersmarket@louisville.edu,http://louisville.edu/sphis/gsfm
+-86.2938637,37.4800544,Farmers' Market,Grayson County Farmers' Market,"Leitchfield, KY 42754",Whitney Carman,,(270) 259-3492,whitney.carman@uky.edu,http://grayson.ca.uky.edu/content/farmers-market
+-82.7779437,38.5503577,Farmers' Market,Greenup County Farmers' Market,"Wurtland, KY 41144",Linda S.  Hieneman,,(606) 836-0201,linda.hieneman@uky.edu,
+-86.754988,37.9000554,Farmers' Market,Hancock County Farmers' Market,"Hawesville, KY 42348",Sage Taylor,,(270) 927-8137,sage.taylor@hancockky.us,
+-85.8649408,37.7030646,Farmers' Market,Hardin County Farmers Market,"Elizabethtown, KY 42701",Brenda Thomas,,,jbthomas25@gmail.com,http://www.hcfarmersmarket.com
+-83.3227595,36.8455715,Farmers' Market,"Harlan County Farmers' Market, LLC","201 South Main Street Harlan, KY 40831",Raymond Hartlove,,(606) 574-0322,harlancountyfarmersmarket@gmail.com,
+-84.2941013,38.3903526,Farmers' Market,Harrison County Farmers' Market,"Cynthiana, KY 41031",Kathy Wright,,(859) 234-9522,kathywbf@gmail.com,http://www.harrison.ca.uky.edu/Farmersmarket
+-85.8910819,37.2722751,Farmers' Market,Hart County Farmers' Market,"Munfordville, KY 42765",Virginia Davis,,(270) 524-2892,hart_co@scrtc.com,
+-84.2946539,37.7478572,Farmers' Market,"Harvest 859 Farmers' Market, Inc.","Richmond, KY 40475",Heather Fields,,(859) 396-8491,harvest859@gmail.com,
+-87.5900134,37.8361538,Farmers' Market,Henderson Farmers' Market,"Henderson, KY 42420",Amy Cates,,(270) 823-6150,catesfarmpro@yahoo.com,http://www.hendersonfarmersmarketky.com
+-83.9638426,36.6185504,Farmers' Market,Henderson Settlement Farmers' Market,"Frakes, KY 40940",Casey Smith,,(606) 337-3613,missadv2@hsumc.org,http://www.hendersonsettlement.com
+-85.1696768,38.4334003,Farmers' Market,Henry County Farmers' Market,"New Castle, KY 40050",Levi Berg,,(502) 845-2811,levi.berg@uky.edu,
+-84.0832646,37.1289771,Farmers' Market,Heritage Farmers' Market,"London, KY 40741",Wayne Riley,,(606) 224-8111,kyhistoryman@yahoo.com,https://lcaahc.org/
+-88.9933965,36.6672813,Farmers' Market,Hickman County Farmers Market,"Clinton, KY 42031",Kenny Wilson,,(270) 653-4369,hickmancountyjudgeexec@gmail.com,http://www.kygreatriverroad.org/RotaryPark/
+-87.4988882,37.3281005,Farmers' Market,Hopkins County Farmers' Market,"Madisonville, KY 42431",Erika Lyons,,(270) 821-3650,erika.lyons@uky.edu,
+-87.4886186,36.8656008,Farmers' Market,Hopkinsville-Christian County Downtown Farmers' Market,"Hopkinsville, KY 42240",Laura Faulkner,,(270) 887-4285,lfaulkner@comdev-services.com,http://www.hopkinsvilleky.us/visitors/historic_hopkinsville/downtown_farmers_
+-88.0811349,37.3328286,Farmers' Market,Imogene Stout Market on Main (Previously called Market on Main),"Marion, KY 42064",Susan Alexander,,(270) 965-5015,susan@crittendenchamber.org,
+-84.5327038,38.9328899,Farmers' Market,Independence Farmers' Market,"Independence, KY 41051",Sharon Wright,,(859) 640-1609,sherchuck1@gmail.com,
+-83.9979834,37.430364,Farmers' Market,Jackson County Farmers' Market,"McKee, KY 40447",Cathy Howell,,(606) 287-7693,chowell@uky.edu,
+-85.5655814,38.1938484,Farmers' Market,Jeffersontown Farmers' Market,"10434 Watterson Trail Louisville, KY 40299",Roni Reed,,(502) 267-8333,hopegrowngardens@yahoo.com,http://www.jeffersontownky.com
+-84.5729961,37.8806341,Farmers' Market,Jessamine County Farmers' Market Inc.,"Nicholasville, KY 40356",Joan Stevens,,(859) 887-2797,joanymryes@aol.com,
+-82.8071054,37.8145384,Farmers' Market,Johnson County Farmers' Market,"Paintsville, KY 41240",Brian Jeffiers,,(606) 789-8108,brian.jeffiers@uky.edu,http://www.johnsonextension.com
+-82.9804414,37.3359313,Farmers' Market,Knott County Farmers Market,"Hindman, KY 41822",Ali Hintz,,(606) 785-5475,ahintz@hindmansettlement.org,
+-83.8888138,36.8664765,Farmers' Market,Knox County Farmers' Market,"Barbourville, KY 40906",Mary Beth Jewell,,,jewellmarybeth@yahoo.com,
+-85.3788468,38.4075666,Farmers' Market,La Grange Farmers' Market & Artisans,"La Grange, KY 40031",Russ Morris,,(502) 243-3721,wvrussnky@live.com,http://www.lagrangefarmersmarket.com
+-85.7399606,37.5739497,Farmers' Market,LaRue County Farmers' Market,"Hodgenville, KY 42748",Daniel Carpenter,,(270) 358-3401,daniel.carpenter@uky.edu,
+-82.6196296,38.0968873,Farmers' Market,Lawrence County Farmers' Market,"249 Industrial Park Road Louisa, KY 41230",Laura Maggard,,(606) 673-9495,laura.opell@uky.edu,
+-85.2527381,37.5697868,Farmers' Market,Lebanon/Marion County Farmers Market,"Lebanon, KY 40033",Danielle Ford,,(270) 692-2421,no email,
+-83.3187952,38.599243,Farmers' Market,Lewis County Farmers Market,"Vanceburg, KY 41179",Philip Konopka,,(606) 796-2732,philip.konopka@uky.edu,
+-84.5091102,38.0488113,Farmers' Market,Lexington Farmers' Market,"Lexington, KY 40508",Josh England,,,info@lexingtonfarmersmarket.com,http://www.lexingtonfarmersmarket.com
+-84.6618876,37.5311901,Farmers' Market,Lincoln County Farmers' Market,"Stanford, KY 40484",Susan Miller,,(606) 669-3374,susanmiller40@hotmail.com,
+-87.9166915,37.6833776,Farmers' Market,Local Harvest Farmers' Market,"Morganfield, KY 42437",Mark Livers,,(270) 285-3845,markliversfarm@yahoo.com,
+-86.887219,36.8453199,Farmers' Market,Logan County Farmers' Market,"Russellville, KY 42276",Leann Martin,,(270) 726-6323,leann.martin@uky.edu,
+-84.0832646,37.1289771,Farmers' Market,London-Laurel County Farmers' Market,"London, KY 40741",Fred King,,(606) 521-9219,fking@kelsan.biz,http://laurel.ca.uky.edu/FarmersMarket
+-85.5303033,38.262658,Farmers' Market,Louismill Anchorage Farmers' Market,"12102 LaGrange Road Anchorage, KY 40223",Lori Himmelsbach,,(502) 494-7012,eat@mozzapi.com,http://www.louismill.com/market
+-85.6124794,38.2729337,Farmers' Market,Lyndon Farmers' Market,"7515 Westport Road Louisville, KY 40222",David Williams,,(502) 425-2266,office@westportroadchristianchurch.org,http://www.westportroadchristianchurch.org/farmers.html
+-88.080301,37.0944971,Farmers' Market,Lyon County Farmers' Market,"Eddyville, KY 42038",Yolanda Jones,,,giandreayolanda@gmail.com,
+-84.2946539,37.7478572,Farmers' Market,Madison County Farmers' Market,"Richmond, KY 40475",Myra E.  Isbell,,(859) 624-9573,myraisbell@msn.com,
+-83.0687816,37.7525922,Farmers' Market,Magoffin County Farmers' Market,"Salyersville, KY 41465",Courtney Jenkins,,(606) 349-3216,calacy2@uky.edu,
+-88.350315,36.8572781,Farmers' Market,Marshall County Farmers' Market,"Benton, KY 42025",Nikki Bell,,(270) 527-3285,nikki.bell@uky.edu,
+-82.5387633,37.8664833,Farmers' Market,Martin County Farmers' Market,"Inez, KY 41224",Roger Mollette,,(606) 298-7742,rmollett@uky.edu,
+-83.744365,38.6411854,Farmers' Market,Mason County Farmers' Market,"Maysville, KY 41056",Eric Keef,,(606) 584-0051,e-keef@hotmail.com,
+-84.4774386,36.6989673,Farmers' Market,"McCreary County Farmers' Market, LLC","Stearns, KY 42647",Doug Stephens,,(606) 376-2413,dstephens@mccrearycounty.com,
+-86.9248483,37.3775995,Farmers' Market,McHenry Community Craft and Farm Market,"McHenry, KY 42354",Misty Riger,,(270) 274-0457,misty_michael@att.net,
+-87.2583316,37.5389351,Farmers' Market,McLean County Farmers' Market,"Calhoun, KY 42327",David Fourqurean,,(270) 273-3690,dfour2@uky.edu,
+-86.1694143,37.9989592,Farmers' Market,Meade County Farmers' Market,"Brandenburg, KY 40108",Katie Thomas,,(270) 763-7682,katie.thomas@fallenmaplefarm.com,
+-83.6257452,37.950916,Farmers' Market,Menifee County Farmers' Market,"Frenchburg, KY 40322",Robert Doyle,,(606) 768-6334,owentonrobert@hotmail.com,
+-84.8432852,37.762298,Farmers' Market,Mercer County Farmers' Market,"Harrodsburg, KY 40330",Jessica Bessin,,(859) 734-4378,jessica.bessin@uky.edu,http://mercer.ca.uky.edu/FarmersMarket
+-85.6121906,36.9800563,Farmers' Market,Metcalfe County Farmers Market,"Edmonton, KY 42129",Rose Saltsman,,,metcalfecountyfarmersmarket@gmail.com,
+-85.5354724,38.2371687,Farmers' Market,Middletown Farmers' Market,"Middletown, KY 40243",Steve Hess,,(502) 426-9979,hess_s@bellsouth.net,
+-85.6916396,36.7022797,Farmers' Market,Monroe County Farmers' Market,"Tompkinsville, KY 42167",Kevin Lyons,,(270) 487-5504,klyons@uky.edu,
+-83.9432556,38.0564679,Farmers' Market,Montgomery County Farmers' Market,"Mt Sterling, KY 40353",William Day,,(859) 497-9170,mdpayne5668@gmail.com,
+-83.2596216,37.9214758,Farmers' Market,Morgan County Farmers' Market,"West Liberty, KY 41472",Kelli Cox,,(606) 743-9968,thecoxhomestead@gmail.com,
+-85.5457877,38.0500627,Farmers' Market,Mt. Washington Farmers' Market,"Mt Washington, KY 40047",Lori Puchino,,(502) 744-8100,lpuchino@mtwky.org,
+-87.1597417,37.2391988,Farmers' Market,Muhlenberg County Farmers' Market,"Powderly, KY 42367",Brenda Walker,,(270) 820-6953,muhlcofm@yahoo.com,
+-84.5729961,37.8806341,Farmers' Market,Nicholasville Farmers' Market,"Nicholasville, KY 40356",Babette Overman,,(859) 792-8237,bsoverman@gmail.com,http://www.nicholasvillefarmersmarketky.com/
+-85.7641013,38.2429908,Farmers' Market,Old Louisville FarmWorks Market,"Louisville, KY 40203",Russ  Gritton,,(502) 343-8251,rgritton@bardstowncable.net,
+-84.8418926,38.536456,Farmers' Market,Owen County Farm And Craft Market,"Owenton, KY 40359",Ginny Miller,,(502) 484-5703,ginny.cook@uky.edu,
+-87.0424393,37.750555,Farmers' Market,Owensboro Regional Farmers' Market,"Owensboro, KY 42303",Bruce Kunze,,(270) 685-8480,bkunze1@aol.com,http://www.owensbororegionalfarmersmarket.org/
+-83.6749145,37.4761991,Farmers' Market,Owsley County Farmers' Market,"Booneville, KY 41314",Paul  Sizemore,,(606) 593-5109,psizemor@uky.edu,
+-88.6000478,37.0833893,Farmers' Market,Paducah Homegrown Farmers' Market,"Paducah, KY 42001",Molly Tomasallo Johnson,,(270) 444-8508,mtjohnson@paducahky.gov,http://paducahky.gov/farmers-market
+-84.2529869,38.2097987,Farmers' Market,Paris-Bourbon County Farmers' Market,"Paris, KY 40361",Gwen Dever,,(859) 987-6614,info@bourboncountyfarmersmarket.com,
+-84.3302142,38.6767372,Farmers' Market,Pendleton County Farmers' Market,"Falmouth, KY 41040",Lindie Huffman,,(859) 654-3395,lindie.huffman@uky.edu,http://pendleton.ca.uky.edu/FarmersMarket
+-83.1932284,37.24954,Farmers' Market,Perry County Farmers' Market,"Hazard, KY 41701",Emily Whitaker,,,perrycountyfarmersmarket@gmail.com,
+-85.7230719,38.2415063,Farmers' Market,Phoenix Hill NuLu Farmers' Market,"Louisville, KY 40204",Cindy Brown Kinloch,,,phoenixhillmarket@gmail.com,
+-82.5187629,37.4792672,Farmers' Market,Pikeville Farmers' Market,"Pikeville, KY 41501",Suzanne Stumbo,,(606) 432-2534,sstum1@uky.edu,http://pike.ca.uky.edu/content/pikeville-farmers-market
+-83.8582525,37.8456373,Farmers' Market,Powell County Farmers' Market,"Stanton, KY 40380",Valerie Stewart,,(606) 663-6405,vstewart@uky.edu,
+-85.615517,38.345068,Farmers' Market,Prospect Area Farmers' Market,"Prospect, KY 40059",Steve Hess,,(502) 426-9979,hess_s@bellsouth.net,
+-84.6585555,37.2784114,Farmers' Market,Pulaski Growers Farmers' Market,"Eubank, KY 42567",Lois Alexander,,(606) 423-2587,no email,
+-85.9202327,37.8338245,Farmers' Market,Radcliff Farmers' Market,"Radcliff, KY 40160",Jeffery S. England,,(270) 351-4714,jengland@radcliff.org,
+-85.6590203,38.252036,Farmers' Market,Rainbow Blossom Farmers' Market,"3738 Lexington Road Louisville, KY 40207",Lane Tucker,,(502) 896-0189,lane.tucker@rainbowblossom.com,http://www.rainbowblossom.com
+-83.5315093,37.0121018,Farmers' Market,Red Bird Mission Food Security Project And Farmers' Market,"70 Queendale Center Beverly, KY 40913",Travis Adkins,,(606) 598-0520,tadkins@rbmission.org,
+-84.3333017,37.3954851,Farmers' Market,Renfro Valley KOA Farmers' Market,"184 KOA Campground Road Mt Vernon, KY 40456",Holly Richard,,(606) 256-2474,holly_richard@hotmail.com,
+-85.1793979,38.6808958,Farmers' Market,Riverview Farmers' Market,"Carrollton, KY 41008",Christin Herbst,,(502) 732-7030,christin.herbst@uky.edu,
+-85.7157924,37.9883991,Farmers' Market,Robards Barn Farmers' Market,"Shepherdsville, KY 40165",Shelly King,,(502) 645-0774,robardsbarn@gmail.com,
+-84.3404919,37.3528615,Farmers' Market,Rockcastle County Farmers' Market,"Mt Vernon, KY 40456",Brenda Parsons,,(606) 231-3918,kaykayt4.95@gmail.com,
+-86.5488713,37.5900543,Farmers' Market,Rough River Dam Farmers' Market,"Falls Of Rough, KY 40119",Patti Owen,,(270) 257-2311,patti.owen@ky.gov,
+-83.4326841,38.1839705,Farmers' Market,Rowan County Farmers' Market,"Morehead, KY 40351",Bob Marsh,,(606) 784-5457,rmarsh@uky.edu,
+-85.0885667,37.0561788,Farmers' Market,Russell County Farmers' Market,"Russell Springs, KY 42642",Darrell Andrews,,(270) 343-4475,darrell@duo-county.com,
+-84.5588311,38.2097967,Farmers' Market,Scott County Farmers' Market,"Georgetown, KY 40324",Sharon Flynt,,(502) 863-0984,sflynt@uky.edu,http://scott.ca.uky.edu/FarmersMarket
+-85.2235666,38.2120144,Farmers' Market,Shelby County Farmers' Market,"Shelbyville, KY 40065",Lea Miller,,,shelbycountyfarmersmarket@gmail.com; malloryfarmstead@gmail.com,http://www.shelbycokyfarmersmarket.com
+-85.3552349,38.22257,Farmers' Market,Simpsonville Farmers' Market,"Simpsonville, KY 40067",Chris Turlock,,(502) 722-8793,simpsonvillepark@cityofsimpsonvilleky.com,
+-86.4808043,36.9685219,Farmers' Market,"SoKY Marketplace, Inc.","Bowling Green, KY 42101",Courtney McBaen,,(270) 202-0256,sokymarketplace@gmail.com,http://www.sokymarketplace.org
+-84.6041084,37.0920222,Farmers' Market,Somerset Farmers Market,"Somerset, KY 42501",Sharon Walton,,(606) 871-0410,no email,http://www.somersetfarmersmarket.com
+-85.7820416,38.1830462,Farmers' Market,South Points Farmers' Market,"Louisville, KY 40215",Kala Diamond,,(502) 491-0072,market@foodliteracyproject.org,
+-85.8281458,38.0950217,Farmers' Market,Southwest Farmers Market,"Louisville, KY 40272",Myra Michele Pendleton,,(502) 937-9499,michelependleton.66@gmail.com,
+-84.9097338,38.6804851,Farmers' Market,Sparta Farmers' Market,"100 Main Street Sparta, KY 41086",Vona V. Fuellhart,,,vona@libertybb.com,
+-85.62301,38.2272106,Farmers' Market,St. Andrew Farmers' Market,"2608 Browns Lane Louisville, KY 40220",Cheryl Willett,,(502) 452-1777,cheryl901@bellsouth.net,http://www.saintandrewucc.org/eventsinfo/our-farmers-market
+-85.634576,38.3276462,Farmers' Market,St. Francis in the Fields Farmers' Market,"Harrods Creek, KY 40027",Elaine Hambley,,(812) 968-3693,hambleyfarms@gmail.com,
+-85.6466346,38.2517813,Farmers' Market,St. Matthews Farmers' Market,"4100 Shelbyville Road Louisville, KY 40207",Dale Mercker,,(502) 896-1161,stmatthewsfarmersmarket@gmail.com,http://smfarmersmarket.com/
+-85.3424533,38.0317304,Farmers' Market,Taylorsville Farmers' Market,"Taylorsville, KY 40071",Sandi Deutsch,,(502) 477-2217,deutschfarmllc@gmail.com,https://spencer.ca.uky.edu/farmersmarket
+-84.6008093,39.0140872,Farmers' Market,The Dixie Farmers' Market,"Erlanger, KY 41018",Jenifer Megerle,,(859) 727-2525,jenifer.megerle@cityoferlanger.com,
+-85.3419069,37.3433974,Farmers' Market,The Farmers' Market Association of Taylor County,"Campbellsville, KY 42718",Kenneth Pierce,,(270) 465-5995,kenneth@kennethpierce.com,
+-85.7624992,38.2169261,Farmers' Market,UofL Belknap Farmers' Market,"Louisville, KY 40292",Darlene Shircliff,,(502) 852-6250,darlene@louisville.edu,
+-84.8491126,36.8297937,Farmers' Market,Wayne County Farmers' Market,"Monticello, KY 42633",Glen Roberts,,(606) 348-8453,groberts@uky.edu,
+-87.731749,37.408222,Farmers' Market,Webster County Farmers' Market #1WC,"211 US Highway 41A Dixon, KY 42409",Vicki Shadrick,,(270) 639-9011,vicki.shadrick@uky.edu,
+-85.9435746,37.9995164,Farmers' Market,West Point Farmers' Market,"West Point, KY 40177",Gary Masterson,,,Gary23502@gmail.com,
+-85.5766466,38.3018831,Farmers' Market,Westport Road Baptist Farmers' Market,"Louisville, KY 40241",Sandi Deutsch,,(502) 252-1400,deutschfarmllc@gmail.com,
+-84.1596561,36.7434169,Farmers' Market,"Whitley County Farmers' Market, Inc.","Williamsburg, KY 40769",Nancy Hayes,,(606) 515-0011,wcfarmermarket@gmail.com,https://whitley.ca.uky.edu/FarmersMarket
+-84.1796503,37.990079,Farmers' Market,Winchester-Clark County Farmers' Market,"Winchester, KY 40391",Molly Stotts,,(859) 229-9469,myfathersgarden@hotmail.com,
+-83.547409,37.7342526,Farmers' Market,Wolfe County Farmers' Market,"Campton, KY 41301",Heather Graham,,(606) 668-3712,heather.graham@uky.edu,
+-84.7585019,38.0471492,Farmers' Market,Woodford County Farmers' Market,"184 Beasley Dr. Versailles, KY 40383",Faye Kuosman & Connie Sanrock,,(859) 873-4601,faye.tewksbury@uky.edu,
+-88.361781,36.948927,Farmers' Market,ZCBC Farmers' Market,"1532 US-68W Benton, KY 42025",Charles Frazier,,(270) 703-8048,kygardening@gmail.com,

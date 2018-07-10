@@ -215,7 +215,7 @@
       zoomSnap: .05,
       center: [37.839333, -85.7],
       maxBounds: bounds,
-      zoom: 6.5,
+      zoom: 7.5,
       minZoom: 6.5,
       maxZoom: 18,
     });
@@ -257,6 +257,12 @@
         popupAnchor: [0, -15]
     });
 
+    var marketIcon = L.icon({
+        iconUrl: "./icons/shop.png",
+        iconSize: [35, 35],
+        popupAnchor: [0, -15]
+    });
+
   // load KY county polygons
   $.getJSON("./data/ky-counties.geojson", function(counties) {
 
@@ -275,6 +281,22 @@
   function drawMap(data) {
 
     // create layer groups by resource type
+
+    var marketLayer = L.geoJson(data, {
+      filter: marketFilter,
+      pointToLayer: function(feature,latlng) {
+          return L.marker(latlng, {icon: marketIcon});
+        },
+        onEachFeature : function(feature,layer) {
+          var props = feature.properties;
+          var locationPopup =
+            "<h2>" + props.resource_t + "</h2>" + "<b>" + props.org_name + "</b>" +
+            "<p>" + props.address + "<br><br><b>Contact Information:  <br></b>" + props.contact_na + "<br>" +
+            props.phone + "<br><a href='mailto:" + props.email + "'>" + props.email + "</a><br><a href='" + props.optional_r + "'>" + props.optional_r + "</a></p></p>";
+            layer.bindPopup(locationPopup);
+        }
+      }).addTo(map);
+
     var greenhouseLayer = L.geoJson(data, {
       filter: greenhouseFilter,
       pointToLayer: function(feature,latlng) {
@@ -322,6 +344,7 @@
 
     // create object of all layers
     var geoJsonLayers = {
+          marketLayer: marketLayer,
           greenhouseLayer: greenhouseLayer,
           equipmentLayer: equipmentLayer,
           auctionLayer: auctionLayer,
@@ -330,8 +353,9 @@
     // legend for turning on/off layers
     var sourcesLabels = {
       "<img src='icons/flower.png' height='35' width='35'><b>&nbsp;Educational Greenhouses</b>": geoJsonLayers.greenhouseLayer,
-      "<img src='icons/equipment.png' height='25' width='35'><b>&nbsp;Shared Equipment</b>": geoJsonLayers.equipmentLayer,
+      "<img src='icons/shop.png' height='34' width='35'><b>&nbsp;Farmers' Market</b>": geoJsonLayers.marketLayer,
       "<img src='icons/auction.png' height='34' width='35'><b>&nbsp;Produce Auction</b>": geoJsonLayers.auctionLayer,
+      "<img src='icons/equipment.png' height='25' width='35'><b>&nbsp;Shared Equipment</b>": geoJsonLayers.equipmentLayer,
     };
 
     L.control.layers(null, sourcesLabels, { collapsed:false }).addTo(map);
@@ -369,6 +393,10 @@
 
     function auctionFilter(feature) {
       if (feature.properties.resource_t === "Produce Auction") return true
+    }
+
+    function marketFilter(feature) {
+      if (feature.properties.resource_t === "Farmers' Market") return true
     }
 
 
