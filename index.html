@@ -192,6 +192,8 @@
           <li><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Farmers' Markets</b> - provided by KDA, June 2018</li>
           <li><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Produce Auctions</b> - provided by UK CCD, July 2018 <a href="http://www.uky.edu/ccd/pricereports/kypa" target="_blank"><img src="info-tiny.png"></a></li>
           <li><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Shared Equipment</b> - data provided by KY-GOAP, March 2018 <a href="https://agpolicy.ky.gov/funds/Pages/program-portal.aspx" target="_blank"><img src="info-tiny.png"></a></li>
+          <li><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Roadside Farmstands</b> - data provided by KDA, September 2018 <a href="https://www.kyfb.com/federation/roadside-farm-markets/roadside-farm-market-owners/" target="_blank"><img src="info-tiny.png"></a></li>
+          <li><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Agritourism Venue</b> - data provided by KDA, September 2018 <a href="http://www.kyagr.com/marketing/agritourism.html" target="_blank"><img src="info-tiny.png"></a></li>
         </ul><br>
         </p>
         <p><h2>Funding and Support</h2><br><center>
@@ -280,6 +282,24 @@
         popupAnchor: [0, -15]
     });
 
+    var hortsupplyIcon = L.icon({
+        iconUrl: "./icons/hortsupply.png",
+        iconSize: [35, 35],
+        popupAnchor: [0, -15]
+    });
+
+    var farmstandIcon = L.icon({
+        iconUrl: "./icons/farmstand.png",
+        iconSize: [35, 35],
+        popupAnchor: [0, -15]
+    });
+
+    var agtourismIcon = L.icon({
+        iconUrl: "./icons/agtourism.png",
+        iconSize: [35, 35],
+        popupAnchor: [0, -15]
+    });
+
   // load KY county polygons
   $.getJSON("./data/ky-counties.geojson", function(counties) {
 
@@ -359,12 +379,62 @@
             }
         }).addTo(map);
 
+        var hortsupplyLayer = L.geoJson(data, {
+          filter: hortsupplyFilter,
+            pointToLayer: function(feature,latlng) {
+                return L.marker(latlng, {icon: hortsupplyIcon});
+              },
+              onEachFeature : function(feature,layer) {
+                var props = feature.properties;
+                var locationPopup =
+                "<h2>" + props.resource_t + "</h2><b>" + props.org_name + "</b><br>" + props.optional_r +
+                "<p>" + props.address + "<br><br><b>Contact Information:  <br></b>" + props.contact_na + "<br>" + props.phone
+                 + "</a></p></p>";
+                  layer.bindPopup(locationPopup)
+              }
+          }).addTo(map);
+
+          var farmstandLayer = L.geoJson(data, {
+            filter: farmstandFilter,
+              pointToLayer: function(feature,latlng) {
+                  return L.marker(latlng, {icon: farmstandIcon});
+                },
+                onEachFeature : function(feature,layer) {
+                  var props = feature.properties;
+                  var locationPopup =
+                    "<h2>" + props.resource_t + "</h2><br><b>" + props.org_name + "</b>" +
+                    "<p>" + props.address + "<br><br><b>Contact Information:  <br></b>" + props.contact_na + "<br>" + props.phone +
+                    "<br><br><a href='mailto:" + props.email + "'>" + props.email + "</a><br><a href='http://" + props.optional_r + "'>" +
+                    props.optional_r + "</a></p></p>";
+                    layer.bindPopup(locationPopup)
+                }
+            }).addTo(map);
+
+            var agtourismLayer = L.geoJson(data, {
+              filter: agtourismFilter,
+                pointToLayer: function(feature,latlng) {
+                    return L.marker(latlng, {icon: agtourismIcon});
+                  },
+                  onEachFeature : function(feature,layer) {
+                    var props = feature.properties;
+                    var locationPopup =
+                      "<h2>" + props.resource_t + "</h2><br><b>" + props.org_name + "</b>" +
+                      "<p>" + props.address + "<br><br><b>Contact Information:  <br></b>" + props.contact_na + "<br>" + props.phone +
+                      "<br><br><a href='mailto:" + props.email + "'>" + props.email + "</a><br><a href='http://" + props.optional_r + "'>" +
+                      props.optional_r + "</a></p></p>";
+                      layer.bindPopup(locationPopup)
+                  }
+              }).addTo(map);
+
     // create object of all layers
     var geoJsonLayers = {
           marketLayer: marketLayer,
           greenhouseLayer: greenhouseLayer,
           equipmentLayer: equipmentLayer,
           auctionLayer: auctionLayer,
+          hortsupplyLayer: hortsupplyLayer,
+          farmstandLayer: farmstandLayer,
+          agtourismLayer: agtourismLayer,
     };
 
     // legend for turning on/off layers
@@ -372,7 +442,10 @@
       "<img src='icons/flower.png' height='35' width='35'><b>&nbsp;Educational Greenhouse</b>": geoJsonLayers.greenhouseLayer,
       "<img src='icons/shop.png' height='34' width='35'><b>&nbsp;Farmers' Market</b>": geoJsonLayers.marketLayer,
       "<img src='icons/auction.png' height='34' width='35'><b>&nbsp;Produce Auction</b>": geoJsonLayers.auctionLayer,
-      "<img src='icons/equipment.png' height='25' width='35'><b>&nbsp;Shared Equipment</b>": geoJsonLayers.equipmentLayer,
+      "<img src='icons/equipment.png' height='29' width='39'><b>&nbsp;Shared Equipment</b><br><br>": geoJsonLayers.equipmentLayer,
+      "<img src='icons/hortsupply.png' height='39' width='39'><b>&nbsp;Horticultural Supply Store</b>": geoJsonLayers.hortsupplyLayer,
+      "<img src='icons/farmstand.png' height='36' width='36'><b>&nbsp;Roadside Market</b>": geoJsonLayers.farmstandLayer,
+      "<img src='icons/agtourism.png' height='36' width='36'><b>&nbsp;Agritourism Venue</b>": geoJsonLayers.agtourismLayer,
     };
 
     L.control.layers(null, sourcesLabels, { collapsed:false }).addTo(map);
@@ -416,6 +489,17 @@
       if (feature.properties.resource_t === "Farmers' Market") return true
     }
 
+    function hortsupplyFilter(feature) {
+      if (feature.properties.resource_t === "Horticulture Supply") return true
+    }
+
+    function farmstandFilter(feature) {
+      if (feature.properties.resource_t === "Roadside Stand") return true
+    }
+
+    function agtourismFilter(feature) {
+      if (feature.properties.resource_t === "Ag Tourism Venue") return true
+    }
 
   } // end drawMap()
 
