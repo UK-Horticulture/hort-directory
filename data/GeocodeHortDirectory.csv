@@ -683,4 +683,4 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -84.734801,38.06176,Water Testing Lab,Fouser Environmental Services,"165 Camden Avenue, Versailles, Kentucky 40383",,Yes,859-873-6211,lab@fouser.com,Scheduling encouraged
 -86.469427,36.960447,Water Testing Lab,HydroAnalytical WKU,"2413 Nashville Road, Bowling Green, KY 42101",,Yes,270-745-5287,ethan.givan@wku.edu,Scheduling encouraged
 -87.115106,37.764758,Water Testing Lab,"Waters Agricultural Laboratories, Inc. ","2101 Calhoun Road, Owensboro, KY 42301",,Yes,270-685-4039,kyinfo@watersag.com,Scheduling encouraged
--83.436333,38.191159,Water Testing Lab,Morehead State University Water Testing Lab,"444 Ashland Avenue, Morehead, KY 40351",,No,606-783-2961 ,jrmason@moreheadstate.edu,Scheduling required
+-83.436333,38.191159,Water Testing Lab,Morehead State University Water Testing Lab,"444 Ashland Avenue, Morehead, KY 40351",,No,606-783-2961,jrmason@moreheadstate.edu,Scheduling required
