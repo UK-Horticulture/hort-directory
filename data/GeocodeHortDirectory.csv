@@ -674,3 +674,13 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -85.2226901,37.6834908,Shared Equipment,Washington County Farm Bureau,"100 E Depot St, Springfield, KY 40069",Jeremy Hardin,Agency Manager,(859) 336-9472,[none],Manure Spreader
 -85.2242075,37.700355,Shared Equipment,Washington County Conservation District,"461 Lincoln Drive, Springfield, KY 40069",Dana Shewmaker,Administrative Secretary,(859) 336-7777,Dana.shewmaker@ky.nacdnet.net,"Lime Spreader, Sprayer"
 -84.7581091,38.0477522,Shared Equipment,Woodford County Conservation District,"180 Beasley Road, Versailles, KY 40383",Jimmy Chambers,Administrative Secretary,(859) 873-4941,woodfordcd@gmail.com,No-Till Drill
+-83.069311,37.746311,Water Testing Lab,"Mineral Labs, Inc.","309 Parkway Dr., Salyersville, KY 41465 ",,No,606-349-6145,sharlonda@minerallabs.com,Scheduling encouraged
+-84.525291,38.001179,Water Testing Lab,"Microbac Laboratories, Inc.","2520 Regency Road, Lexington, KY 40503",,Yes,859-276-3506,lisa.martin@microbac.com,Scheduling encouraged
+-86.03432,37.562802,Water Testing Lab,White Mills Laboratory/Hardin Co. Water District No. 2,"1300 Cave Road, Glendale, KY 42740",,No,270-862-3213,WhiteMillsLab@hardincountywater2.org,Scheduling encouraged
+-87.155513,36.651702,Water Testing Lab,Logan/Todd Regional Water Commission ,"248 Tower Street, Guthrie, KY 42234",,No,270-483-6990,tmccullough@ltrwc.org,Scheduling required
+-85.557805,38.198561,Water Testing Lab,Beckmar Environmental Laboratory,"3251 Ruckriegel Parkway, Louisville Ky 40299",,Yes,502-266-6533,matt@beckmarlab.com,Scheduling optional
+-84.574768,37.874623,Water Testing Lab,Hall Environmental Consultants,"1376 Danville Loop 1 Road, Nicholasville, KY 40356",,Yes,859-885-3331,rshelley@hallenvironmental.net,Scheduling encouraged
+-84.734801,38.06176,Water Testing Lab,Fouser Environmental Services,"165 Camden Avenue, Versailles, Kentucky 40383",,Yes,859-873-6211,lab@fouser.com,Scheduling encouraged
+-86.469427,36.960447,Water Testing Lab,HydroAnalytical WKU,"2413 Nashville Road, Bowling Green, KY 42101",,Yes,270-745-5287,ethan.givan@wku.edu,Scheduling encouraged
+-87.115106,37.764758,Water Testing Lab,"Waters Agricultural Laboratories, Inc. ","2101 Calhoun Road, Owensboro, KY 42301",,Yes,270-685-4039,kyinfo@watersag.com,Scheduling encouraged
+-83.436333,38.191159,Water Testing Lab,Morehead State University Water Testing Lab,"444 Ashland Avenue, Morehead, KY 40351",,No,606-783-2961 ,jrmason@moreheadstate.edu,Scheduling required

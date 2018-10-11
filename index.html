@@ -194,6 +194,7 @@
           <li><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Shared Equipment</b> - data provided by KY-GOAP, March 2018 <a href="https://agpolicy.ky.gov/funds/Pages/program-portal.aspx" target="_blank"><img src="info-tiny.png"></a></li>
           <li><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Roadside Farmstands</b> - data provided by KDA, September 2018 <a href="https://www.kyfb.com/federation/roadside-farm-markets/roadside-farm-market-owners/" target="_blank"><img src="info-tiny.png"></a></li>
           <li><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Agritourism Venue</b> - data provided by KDA, September 2018 <a href="http://www.kyagr.com/marketing/agritourism.html" target="_blank"><img src="info-tiny.png"></a></li>
+          <li><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Water Testing Lab</b> - data provided by UK Food Connection, October 2018 <a href="https://foodconnection.ca.uky.edu/" target="_blank"><img src="info-tiny.png"></a></li>
         </ul><br>
         </p>
         <p><h2>Funding and Support</h2><br><center>
@@ -296,6 +297,12 @@
 
     var agtourismIcon = L.icon({
         iconUrl: "./icons/agtourism.png",
+        iconSize: [35, 35],
+        popupAnchor: [0, -15]
+    });
+
+    var waterlabIcon = L.icon({
+        iconUrl: "./icons/waterlab.png",
         iconSize: [35, 35],
         popupAnchor: [0, -15]
     });
@@ -426,6 +433,21 @@
                   }
               }).addTo(map);
 
+              var waterlabLayer = L.geoJson(data, {
+                filter: waterlabFilter,
+                  pointToLayer: function(feature,latlng) {
+                      return L.marker(latlng, {icon: waterlabIcon});
+                    },
+                    onEachFeature : function(feature,layer) {
+                      var props = feature.properties;
+                      var locationPopup =
+                        "<h2>" + props.resource_t + "</h2><br><b>" + props.org_name + "</b><br><br>" + props.address + "<br><br>Onsite Sampling Offered:  <b><font color='red'>" + props.contact_ti +
+                        "<br><b>" + props.optional_r + "</b></font><p><b>Contact Information:  <br></b></b>" + props.phone + "<br><a href='mailto:" +
+                        props.email + "'>" + props.email + "</a></p>";
+                        layer.bindPopup(locationPopup)
+                    }
+                }).addTo(map);
+
     // create object of all layers
     var geoJsonLayers = {
           marketLayer: marketLayer,
@@ -433,6 +455,7 @@
           equipmentLayer: equipmentLayer,
           auctionLayer: auctionLayer,
           hortsupplyLayer: hortsupplyLayer,
+          waterlabLayer: waterlabLayer,
           farmstandLayer: farmstandLayer,
           agtourismLayer: agtourismLayer,
     };
@@ -444,6 +467,7 @@
       "<img src='icons/auction.png' height='34' width='35'><b>&nbsp;Produce Auction</b>": geoJsonLayers.auctionLayer,
       "<img src='icons/equipment.png' height='29' width='39'><b>&nbsp;Shared Equipment</b><br><br>": geoJsonLayers.equipmentLayer,
       "<img src='icons/hortsupply.png' height='39' width='39'><b>&nbsp;Horticultural Supply Store</b>": geoJsonLayers.hortsupplyLayer,
+      "<img src='icons/waterlab.png' height='39' width='39'><b>&nbsp;Water Testing Lab</b>": geoJsonLayers.waterlabLayer,
       "<img src='icons/farmstand.png' height='36' width='36'><b>&nbsp;Roadside Market</b>": geoJsonLayers.farmstandLayer,
       "<img src='icons/agtourism.png' height='36' width='36'><b>&nbsp;Agritourism Venue</b>": geoJsonLayers.agtourismLayer,
     };
@@ -499,6 +523,10 @@
 
     function agtourismFilter(feature) {
       if (feature.properties.resource_t === "Ag Tourism Venue") return true
+    }
+
+    function waterlabFilter(feature) {
+      if (feature.properties.resource_t === "Water Testing Lab") return true
     }
 
   } // end drawMap()
