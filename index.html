@@ -29,7 +29,7 @@
     left: 15px;
     width: 35;
     padding: 6px 12px;
-    background: rgba(256, 256, 256, .65);
+    background: rgba(256, 256, 256, .80);
     border: 1px solid #005d7e;
     border-radius: 3px;
     z-index: 800;
@@ -130,6 +130,21 @@
     z-index: 900;
   }
 
+  .leaflet-touch .leaflet-control-layers-toggle {
+  background-image:url(images/layers.png);
+  width: 127px;
+  height: 44px;
+  background-size: 127px 44px;
+  }
+
+  .leaflet-retina .leaflet-control-layers-toggle {
+  background-image:url(images/layers.png);
+  width: 127px;
+  height: 44px;
+  background-size: 127px 44px;
+  }
+
+
   h1 {
     color: #005d7e;
     font-weight: bold;
@@ -181,8 +196,8 @@
         <h2>Using This Map</h2><br>
         <p><b>Clicking/tapping</b> an icon on the map shows shows detail.</p><br>
         <p>The +/- buttons at the top left <b>zoom in and out</b>, as does the mouse wheel, and standard mobile gestures.</p><br>
-        <p>Map <b>resources can be turned on and off</b> by type in the <b>legend at the top right</b>.</p><br>
-        <p>The <b>search box</b> allows users to enter a physical address, city name, or zipcode to <b>place a marker</b>.</p><br>
+        <p>Map <b>resources can be turned on and off</b> by type in the <b>legend at the top right</b>, which will appear after bringing the mouse to or tapping on the <b>Map Layer Icon</b> -> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/layers.png"> </p><br>
+        <!-- <p>The <b>search box</b> allows users to enter a physical address, city name, or zipcode to <b>place a marker</b>.</p><br> -->
         <h2>Data Sources</h2><br>
       <p>The primary data source is the <a href="https://agpolicy.ky.gov/Pages/default.aspx" target="_blank">Governor's
         Office of Agricultural Policy</a> and the <a href="http://www.kyagr.com/" target="blank">Kentucky Department of Agriculture</a>.<br><br>
@@ -308,7 +323,7 @@
         popupAnchor: [0, -15]
     });
 
-  // load KY county polygons
+    // load KY county polygons
   $.getJSON("./data/ky-counties.geojson", function(counties) {
 
         // load CSV file
@@ -473,7 +488,7 @@
       "<img src='icons/agtourism.png' height='36' width='36'><b>&nbsp;Agritourism Venue</b>": geoJsonLayers.agtourismLayer,
     };
 
-    L.control.layers(null, sourcesLabels, { collapsed:false }).addTo(map);
+    L.control.layers(null, sourcesLabels, { collapsed:true }).addTo(map);
 
     // info modal code
     var modal = document.getElementById('myModal');
