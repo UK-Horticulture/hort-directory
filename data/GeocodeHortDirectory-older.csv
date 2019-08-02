@@ -684,7 +684,6 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -86.469427,36.960447,Water Testing Lab,HydroAnalytical WKU,"2413 Nashville Road, Bowling Green, KY 42101",,Yes,270-745-5287,ethan.givan@wku.edu,Scheduling encouraged
 -87.115106,37.764758,Water Testing Lab,"Waters Agricultural Laboratories, Inc. ","2101 Calhoun Road, Owensboro, KY 42301",,Yes,270-685-4039,kyinfo@watersag.com,Scheduling encouraged
 -83.436333,38.191159,Water Testing Lab,Morehead State University Water Testing Lab,"444 Ashland Avenue, Morehead, KY 40351",,No,606-783-2961,jrmason@moreheadstate.edu,Scheduling required
--88.641672,37.056605,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory","3038 Lone Oak Rd Suite 4, Paducah, KY 42003",Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,Scheduling optional
--84.44471,38.033936,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory","2456 Fortune #160, Dr Lexington, KY 40509",Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,Scheduling optional
--82.528632,37.461988,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory","173 Island Creek Rd Pikeville, KY 41501",Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,Scheduling optional
--87.549713,37.359551,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory",,Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,Scheduling optional
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
