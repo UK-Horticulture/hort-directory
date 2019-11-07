@@ -457,8 +457,8 @@
                     onEachFeature : function(feature,layer) {
                       var props = feature.properties;
                       var locationPopup =
-                        "<h2>" + props.resource_t + "</h2><br><b>" + props.org_name + "</b><br><br>" + props.address + "<br><br>Onsite Sampling Offered:  <b><font color='red'>" + props.contact_ti +
-                        "<br><b>" + props.optional_r + "</b></font><p><b>Contact Information:  <br></b></b>" + props.phone + "<br><a href='mailto:" +
+                        "<h2>" + props.resource_t + "</h2><br><b>" + props.org_name + "</b><br><br>" + props.address + "<br><br>Minimum Invoice Amount:  <b><font color='red'>" + props.contact_ti +
+                        "<br></font><br>Sampling Notes:<br></b>" + props.optional_r + "</font><p><b>Contact Information:  <br></b></b>" + props.phone + "<br><a href='mailto:" +
                         props.email + "'>" + props.email + "</a></p>";
                         layer.bindPopup(locationPopup)
                     }

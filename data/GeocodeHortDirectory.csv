@@ -24,9 +24,9 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -84.3,37.57,Ag Tourism Venue,Berea College Farm,"CPO 1743 Berea, KY 40404",Sean Clark,,(859) 985-3402,farmstore@berea.edu,www.berea.edu/anr/farm-enterprises/
 -84.2971685,37.5708653,Ag Tourism Venue,Berea Urban Farm,"201 Adams Street Berea, KY 40403",Richard Olson,,(859) 985-1936,FarmMgmt@SustainableBerea.org,www.BereaUrbanFarm.org
 -86.5093427,36.8235211,Ag Tourism Venue,Berrylicious Orchard,"531 Clay Starks Road Woodburn, KY 42170",Larissa Adams,,(270) 392-0211,Berryliciousorchard@yahoo.com,berryliciousorchard.com
--84.5639115,38.2267848,Ag Tourism Venue,Bi-Water Farm & Greenhouse,"877 Cincinnati Rd Georgetown, KY 40324",Stephen Fister,,(502) 863-3676,biwaterfarm@bellsouth.net,www.biwaterfarm.com
 -85.3406946,38.2664102,Ag Tourism Venue,Big Springs Farm,"3840 Todds Point Road  Simpsonville, KY 40067",Catherine Fortener,,(502) 722-0624,Bgsprngsfrm@aol.com,bigspringsfarm.org
 -84.8842874,38.2066286,Ag Tourism Venue,Bill's Bees,"3115 US Hwy 421 N Frankfort, KY 40601",William Dickerson,,(502) 418-0969,bill@aerialrobotics.com,
+-84.5639115,38.2267848,Ag Tourism Venue,Bi-Water Farm & Greenhouse,"877 Cincinnati Rd Georgetown, KY 40324",Stephen Fister,,(502) 863-3676,biwaterfarm@bellsouth.net,www.biwaterfarm.com
 -84.143326,37.9470816,Ag Tourism Venue,Blewegrass Apiary,"4040 Muddy Creek Rd Winchester, KY 40391",Lauren White,,(606) 226-4866,blewegrassapiary@gmail.com,www.facebook.com/profile.php?id=100009290006005&fref=ts
 -84.6368556,38.8856221,Ag Tourism Venue,Blue Ribbon Market Gruelle Farm,"12250 Gaines Way  Walton, KY 41094",Ronald L. Gruelle,,(859) 485-7711,dgruelle@cpgnet.com,www.blueribbonmarket.com
 -87.0842622,37.6800383,Ag Tourism Venue,Blueberries Of Daviess County,"1401 Hill Bridge Rd  Utica, KY 42376",Nancy Mccormick,,(270) 926-6510,blueberriesofdaviesscounty@yahoo.com,blueberriesofdaviesscounty.com
@@ -55,8 +55,8 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -87.301818,37.034932,Ag Tourism Venue,Christian Way Farm LLC,"19590 Linville Rd Hopkinsville, KY 42240",Milton & Janie Corley,,(270) 269-2434,christianwayfarm@gmail.com,www.christianwayfarm.com
 -86.5609772,36.8553366,Ag Tourism Venue,Circle W Farms,"680 Travelstead Rd Woodburn, KY 42170",Kristen Wyrick,,,circlewfarmsky@hotmail.com,
 -84.234337,37.5063699,Ag Tourism Venue,Clear Creek Community Farm,"1882 Hammonds Fork Rd Disputanta, KY 40456",Michael Beck,,(606) 256-0820,michaelbeck14903@gmail.com,
--85.277316,38.1102194,Ag Tourism Venue,Coop's Rockies Farm,"299 Haley Road Shelbyville, KY 40065",Alicia Coop,,(502) 777-4949,aliciacoop@rocketmail.com,
 -85.2194839,38.4588076,Ag Tourism Venue,Cooper Family Farm,"920 Scobie Lane  New Castle, KY 40050",Sharon or Robert Cooper,,(502) 744-5793,cooperfamilyfarm@gmail.com,
+-85.277316,38.1102194,Ag Tourism Venue,Coop's Rockies Farm,"299 Haley Road Shelbyville, KY 40065",Alicia Coop,,(502) 777-4949,aliciacoop@rocketmail.com,
 -85.6370372,38.0156987,Ag Tourism Venue,Country Corner Greenhouse & Nursery Inc.,"4877 Hwy 44E Shepherdsville, KY 40165",Ann Vowels,,(502) 955-8635,countrycornergreenhouse@gmail.com,www.countrycornergreenhouse.com
 -85.8026498,37.6267315,Ag Tourism Venue,Crawford Farms,"3999 Hodgenville Rd Elizabethtown, KY 42701",Mason Crawford,,,info@crawfordgrowgreen.com,www.crawfordpumpkins.com
 -84.7830145,37.9789237,Ag Tourism Venue,Crowley's Mill,"475 Arrowhead Springs Lane Versailles, KY 40383",Terri Crowley,,(859) 753-5806,terrigcrowley@yahoo.com,www.crowleysmill.com
@@ -120,6 +120,7 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -84.535079,38.8139589,Ag Tourism Venue,"Honey Locust Farms, Llc","15100 Madison Pike Morning View, KY 41063",Becky Darnell,,(859) 356-2253,honeylocustfarms@gmail.com,www.honeylocustfarms.com
 -85.135368,38.277963,Ag Tourism Venue,Hornback Farms,"6102 Cropper Rd Shelbyville, KY 40065",Pat Hornback,,(502) 461-9005,pmh@shelbybb.net,
 -86.418992,36.7234879,Ag Tourism Venue,Horseman's Rest Bed And Breakfast,"314 Hack Brown  Rd Franklin, KY 42134",Sandra Placco,,(270) 586-6660,equine@apex.net,
+-82.817858,38.532532,Ag Tourism Venue,Imel's Greenhouse,"2836 State Route 1 Greenup, KY 41144",Kenneth Imel,,(606) 473-1708,hjiery@live.com,
 -86.457005,37.043548,Ag Tourism Venue,Jackson's Orchard & Nursery Inc,"1280 Slim Island Rd Bowling Green, KY 42101",Bill Jackson,,(270) 781-5303,JacksonsOrchard@hughes.net,www.jacksonsorchard.com
 -84.3770192,37.9290116,Ag Tourism Venue,Jean Farris Winery & Bistro,"6825 Old Richmond Rd  Lexington, KY 40515",Jeanie O'Daniel,,(859) 263-9463,info@jeanfarris.com,www.jeanfarris.com
 -84.6117099,38.3041746,Ag Tourism Venue,Jenkins Goods From The Woods,"605 Sulphur Wells Rd  Georgetown, KY 40324",Annette Jenkins,,,one.shortee@yahoo.com,
@@ -280,11 +281,11 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -85.4772768,38.4651952,Ag Tourism Venue,Woodland Farm,"4716 Greenhaven Ln Goshen, KY 40026",Stephanie Tittle & Kristopher Kelley,,(502) 303-4852,wfarmgarden@gmail.com,www.woodlandfarm.com
 -88.6662713,37.0040065,Ag Tourism Venue,Wurth Farms,"1720 S Friendship Rd Paducah, KY 42003",Alesia Grief,,(270) 554-1403,wurthfarms@comcast.net,wurthfarms.net
 -85.463569,38.336927,Ag Tourism Venue,Yew Dell Botanical Gardens,"6220 Old LaGrange Rd Crestwood, KY 40014",Jackie Gulbe,,(502) 241-4788,jackieg@yewdellgardens.org,www.YewDellGardens.org
--82.817858,38.532532,Ag Tourism Venue,Imel's Greenhouse,"2836 State Route 1 Greenup, KY 41144",Kenneth Imel,,(606) 473-1708,hjiery@live.com,
 -86.2185953,36.7539191,Educational Greenhouse,Allen County High School,"1545 Bowling Green Rd, Scottsville, KY 42164",Nikki Towe,Ag Teacher,(270) 618-0384,nikki.towe@allen.kyschools.us,
 -88.9874563,37.0669876,Educational Greenhouse,Ballard Memorial High School,"3561 Paducah Rd, Barlow, KY 42024",Dana Rohrer,,(270) 665-9400 ext. 2401,dana.rohrer@ballard.kyschools.us,
--84.2547683,38.207091,Educational Greenhouse,St. Mary School,"1121 Main St, Paris, KY 40361",Lucy Marsh,Principal,(859) 987-3815,lmarsh@cdlex.org,
 -86.4243868,37.7547654,Educational Greenhouse,Breckinridge County High School,"2019 US-60, Harned, KY 40144",Brad Davis,Ag Teacher,(270) 756-3080,brad.davis@breckinridge.kyschools.us,
+-87.2242112,37.3611238,Educational Greenhouse,Bremen Elementary School,"5000 Main St, Bremen, KY 42325",Krista Venza,Principal,,venzak@mail.muhlsdk12.org,
+-84.762414,37.752152,Educational Greenhouse,Burgin Independent FFA Chapter,"440 E Main St, Burgin, KY 40310",Travis York,Ag Teacher,,travis.york@burgin.kyschools.us,
 -88.9322855,36.8334363,Educational Greenhouse,Carlisle County High School,"4557 KY-1377, Bardwell, KY 42023",Michelle Trevathan,,,michelle.trevathan@carlisle.kyschools.us,
 -85.1567903,38.6830769,Educational Greenhouse,Carroll County High School,"1706 Highland Ave, Carrollton, KY 41008",Mackenzie Wright,Ag Teacher,(502) 732-7075,mackenzie.wright@carroll.kyschools.us,
 -82.9465007,38.3280146,Educational Greenhouse,Carter County Schools,"228 S. Carol Malone Blvd, Grayson, KY 41143",Ronnie Dotson,Superintendent,(606) 474-6696 ext. 20900,ronnie.dotson@carter.kyschools.us,
@@ -292,31 +293,30 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -88.0895598,37.3298261,Educational Greenhouse,Crittenden County High School,"519 1/2 W Gum St, Marion, KY 42064",Larry Duvall,Ag Teacher,(270) 704-0653,larry.duvall@crittenden.kyschools.us,
 -85.3636376,36.8002252,Educational Greenhouse,Cumberland County High School,"912 N Main St, Burkesville, KY 42717",Jason Dodoson,Principal,(270) 864-3451,jason.dodson@cumberland.kyschools.us,
 -87.0849275,37.7298237,Educational Greenhouse,Daviess County High School,"4255 New Hartford Rd, Owensboro, KY 42303",Kathy Hoffman,Ag Program Coordinator,(270) 686-4643,kathy.hoffman@kctcs.edu,
--87.0827556,37.7173282,Educational Greenhouse,Owensboro Community & Technical College,"4800 New Hartford Rd, Owensboro, KY 42303",Chad Askins,Ag Teacher,(270) 852-7310,chad.askins@daviess.kyschools.us,
 -83.1292457,38.0851928,Educational Greenhouse,Elliott County High School,"349 KY-7, Sandy Hook, KY 41171",John C. Williams,Superintendent,(606) 738-8002,john.williams@elliott.kyschools.us,
--84.9077546,38.1624543,Educational Greenhouse,Western Hills High School,"100 Doctors Dr, Frankfort, KY 40601",Kylen Douglas,Ag Teacher / FFA Advisor,,kylen.douglas@franklin.kyschools.us,
+-86.5809143,36.7154668,Educational Greenhouse,Franklin-Simpson High School,"400 S College St, Franklin, KY 42134",Felicia Dalton,Ag Teacher,(270) 586-2019,felicia.dalton@simpson.kyschools.us,
 -84.5700212,37.6021513,Educational Greenhouse,Garrard County High School,"599 Industry Rd, Lancaster, KY 40444",Aaron McDonald,Ag Teacher,,aaron.mcdonald@garrard.kyschools.us,
 -84.6735106,38.6885872,Educational Greenhouse,Grant County High School,"715 Warsaw Rd, Dry Ridge, KY 41035",Larry Butler,Ag Teacher,,larry.butler@grant.kyschools.us,
 -85.8816687,37.2596237,Educational Greenhouse,Hart County High School,"1014 S Dixie Hwy, Munfordville, KY 42765",Ashley Thomas,Ag Teacher,,ashley.thomas@hart.kyschools.us,
 -87.5022508,37.3236524,Educational Greenhouse,Hopkins County Board of Education,"320 S Seminary St, Madisonville, KY 42431",Steve Gilliam,Facilities Manager,(270) 825-6017,steve.gilliam@hopkins.kyschools.us,
--84.6163589,37.885744,Educational Greenhouse,West Jessamine County High School,"2101 Wilmore Rd, Nicholasville, KY 40356",Christina Thomas,FFA Advisor,,christina.thomas@jessamine.kyschools.us,
+-83.8109894,38.6086019,Educational Greenhouse,KCTCS/Maysville Community & Technical College,"1755 US-68 BUS, Maysville, KY 41056",Carrie Taylor,Horticulturist,(606) 759-7141 ext. 66232,carriel.taylor@kctcs.edu,
 -84.6531215,37.5132166,Educational Greenhouse,Lincoln County High School,"60 Education Way, Stanford, KY 40484",Harvey Franklin,,,harvey.franklin@lincoln.kyschools.us,
 -88.0808395,37.0937215,Educational Greenhouse,Lyon County High School,"209 Fairview Ave, Eddyville, KY 42038",Mercedes Smith,,(270) 210-2852,mercedes.smith@lyon.kyschools.us,
--83.8109894,38.6086019,Educational Greenhouse,KCTCS/Maysville Community & Technical College,"1755 US-68 BUS, Maysville, KY 41056",Carrie Taylor,Horticulturist,(606) 759-7141 ext. 66232,carriel.taylor@kctcs.edu,
 -83.7898966,38.6347103,Educational Greenhouse,Mason County High School,"1320 US-68, Maysville, KY 41056",Andrew Sorrell,Ag Teacher,,andrew.sorrell@mason.kyschools.us,
 -87.233119,37.5483882,Educational Greenhouse,McLean County High School,"1959 KY-136, Calhoun, KY 42327",Drew Taylor,Principal,(270) 273-5278,drew.taylor@mclean.kyschools.us,
--84.762414,37.752152,Educational Greenhouse,Burgin Independent FFA Chapter,"440 E Main St, Burgin, KY 40310",Travis York,Ag Teacher,,travis.york@burgin.kyschools.us,
 -84.8621682,37.7840695,Educational Greenhouse,Mercer County High School,"1124 Moberly Rd, Harrodsburg, KY 40330",Michael Jones,Ag Teacher,(859) 734-6364,michael.jones@mercer.kyschools.us,
 -85.7003218,36.6926566,Educational Greenhouse,Monroe County High School,"755 Old Mulkey Rd, Tompkinsville, KY 42167",Max Petett,Principal,,Max.Petett@Monroe.kyschools.us,
--87.2242112,37.3611238,Educational Greenhouse,Bremen Elementary School,"5000 Main St, Bremen, KY 42325",Krista Venza,Principal,,venzak@mail.muhlsdk12.org,
 -87.1860815,37.2232556,Educational Greenhouse,Muhlenberg County High School,"501 W Everly Brothers Blvd, Greenville, KY 42345",Derrick Benton,Ag Teacher (East),,derrick.benton@muhlenberg.kyschools.us,
 -84.037627,38.3138472,Educational Greenhouse,Nicholas County High School,"103 School Dr, Carlisle, KY 40311",Cameron Earlywine,Ag Teacher / FFA Advisor,,cameron.earlywine@nicholas.kyschools.us,
+-87.0827556,37.7173282,Educational Greenhouse,Owensboro Community & Technical College,"4800 New Hartford Rd, Owensboro, KY 42303",Chad Askins,Ag Teacher,(270) 852-7310,chad.askins@daviess.kyschools.us,
 -84.603407,37.1084814,Educational Greenhouse,Pulaski County High School,"511 University Drive, Somerset, KY 42503",Janella Miller,Ag Teacher,(606) 679-1574,janella.miller@pulaski.kyschools.us,
 -84.0118676,38.5288769,Educational Greenhouse,Robertson County High School,"1760 Sardis Rd, Mt Olivet, KY 41064",Sanford Holbrook,Superintendent,,sanford.holbrook@robertson.kyschools.us,
--86.5809143,36.7154668,Educational Greenhouse,Franklin-Simpson High School,"400 S College St, Franklin, KY 42134",Felicia Dalton,Ag Teacher,(270) 586-2019,felicia.dalton@simpson.kyschools.us,
+-84.2547683,38.207091,Educational Greenhouse,St. Mary School,"1121 Main St, Paris, KY 40361",Lucy Marsh,Principal,(859) 987-3815,lmarsh@cdlex.org,
 -85.380028,37.35962,Educational Greenhouse,Taylor County High School,"2705 Old Hodgenville Rd, Campbellsville, KY 42718",Lindsay Wayne,Ag Teacher / FFA Advisor,,lindsay.wayne@taylor.kyschools.us,
 -85.2138428,37.7077326,Educational Greenhouse,Washington County High School,"300 US-150, Springfield, KY 40069",Bart Mattingly,Ag Teacher,(859) 336-5475,bart.mattingly@washington.kyschools.us,
 -87.7130614,37.499073,Educational Greenhouse,Webster County High School,"1922 Us Highway 41A S, Dixon, KY 42409",Margo Bruce,Ag Teacher,,margo.bruce@webster.kyschools.us,
+-84.6163589,37.885744,Educational Greenhouse,West Jessamine County High School,"2101 Wilmore Rd, Nicholasville, KY 40356",Christina Thomas,FFA Advisor,,christina.thomas@jessamine.kyschools.us,
+-84.9077546,38.1624543,Educational Greenhouse,Western Hills High School,"100 Doctors Dr, Frankfort, KY 40601",Kylen Douglas,Ag Teacher / FFA Advisor,,kylen.douglas@franklin.kyschools.us,
 -84.7318011,38.0623693,Educational Greenhouse,Woodford County High School,"180 Frankfort St, Versailles, KY 40383",Tracy Probst,,(859) 619-1041,tracy.probst@woodford.kyschools.us,
 -85.751283,38.2556928,Farmers' Market,4th Street Live Farmers' Market,"Louisville, KY 40202",Ken Stanfield,,(502) 741-7139,director@louisvillegrows.org,
 -85.3136218,37.076403,Farmers' Market,Adair County Farmers' Market,"Columbia, KY 42728",Nick Roy,,(270) 384-2317,nick.roy@uky.edu,
@@ -481,26 +481,23 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -83.547409,37.7342526,Farmers' Market,Wolfe County Farmers' Market,"Campton, KY 41301",Heather Graham,,(606) 668-3712,heather.graham@uky.edu,
 -84.7585019,38.0471492,Farmers' Market,Woodford County Farmers' Market,"184 Beasley Dr. Versailles, KY 40383",Faye Kuosman & Connie Sanrock,,(859) 873-4601,faye.tewksbury@uky.edu,
 -88.361781,36.948927,Farmers' Market,ZCBC Farmers' Market,"1532 US-68W Benton, KY 42025",Charles Frazier,,(270) 703-8048,kygardening@gmail.com,
+-87.3834915,36.7457754,Horticulture Supply,"D and R Supplies, LLC","1472 Pruitt Lane, Pembroke KY 42266",,,(270)-475-2160,,"Greenhouse, Garden Seeds, Liquid Fish Fertilizer, Sprayers"
 -87.2100769,36.861744,Horticulture Supply,"Deerfield Supplies, LLC","2825 Stringtown Road, Elkton, KY 42220",,,(270)-265-2425,,"Greenhouse and Vegetable, Specialized Production Implements, Irrigation Equipment, Fertilizers"
+-87.5122975,36.7556511,Horticulture Supply,"Hopkinsville AG, LLC","2850 Memory Lane, Hopkinsville KY 42240",,,(270)-887-0083,,"Custom Seed Mixes, Fertilizers"
+-87.2953603,36.8376531,Horticulture Supply,IR Greenhouse Installation,"443 Roger Q Mill Rd Pembroke, KY 42266",,,(270)-886-4344,,
+-87.1689336,36.7527702,Horticulture Supply,"Kentucky Organic Farm and Feed, Inc.","4050 Guthrie Road, Guthrie KY 42234",,,(270)-265-5004,,Organic Fertilizers
 -84.8668886,37.2115791,Horticulture Supply,Martin's Produce Supply,"5627 S Fork Ridge Rd, Liberty, KY 42539",,,(606)-787-9389,,
 -84.7893124,37.6404232,Horticulture Supply,Pro Ag Sales and Service,"410 Valksdahl Ave, Danville, KY 40422",,,(859)-236-1445,,
--87.1689336,36.7527702,Horticulture Supply,"Kentucky Organic Farm and Feed, Inc.","4050 Guthrie Road, Guthrie KY 42234",,,(270)-265-5004,,Organic Fertilizers
--87.3834915,36.7457754,Horticulture Supply,"D and R Supplies, LLC","1472 Pruitt Lane, Pembroke KY 42266",,,(270)-475-2160,,"Greenhouse, Garden Seeds, Liquid Fish Fertilizer, Sprayers"
--87.5122975,36.7556511,Horticulture Supply,"Hopkinsville AG, LLC","2850 Memory Lane, Hopkinsville KY 42240",,,(270)-887-0083,,"Custom Seed Mixes, Fertilizers"
--87.2046653,36.8775749,Horticulture Supply,Scenic Acres,"3577 Stringtown Road, Elkton KY 42220",,,(270)-265-5835,,"Greenhouse and High Tunnels, Greenhouse Doors, Hobby Houses"
 -87.1215581,36.9181562,Horticulture Supply,Ramer Seed Supply,"344 Boley Road, Sharon Grove KY 42280",,,(270)-277-7107,,"Alta, Barrenbrug, WIL Alfalfas, Partners Brand"
 -87.2987352,36.855352,Horticulture Supply,Sauder Farm Country Market,"959 Britmart Road, Elkton KY 42220",,,(270)-885-1048,,Vegetable Seed Supply
--87.4102887,36.8386134,Horticulture Supply,Sunnyside Greenhouse,"1220 Edwards Mill Road, Hopkinsville KY 42240",,,,,Custom Germinating and Finishing Plants
--87.2953603,36.8376531,Horticulture Supply,IR Greenhouse Installation,"443 Roger Q Mill Rd Pembroke, KY 42266",,,(270)-886-4344,,
+-87.2046653,36.8775749,Horticulture Supply,Scenic Acres,"3577 Stringtown Road, Elkton KY 42220",,,(270)-265-5835,,"Greenhouse and High Tunnels, Greenhouse Doors, Hobby Houses"
 -84.513317,37.498483,Horticulture Supply,Schrock's Produce Supply,"2598 Hwy. 39 N. Crab Orchard, KY 40419",,,(606)-355-7534,,Closed Thursday and Sunday
+-87.4102887,36.8386134,Horticulture Supply,Sunnyside Greenhouse,"1220 Edwards Mill Road, Hopkinsville KY 42240",,,,,Custom Germinating and Finishing Plants
+-83.71597,38.137246,Produce Auction,Bath County Produce Auction,"2914 East Hwy 60, Owingsville, KY 40360",Dan Miller,Auction Manager,(606) 336-0103,http://www.uky.edu/ccd/pricereports/KYPA/bath,
 -84.939888,37.194364,Produce Auction,Casey County Produce Auction,"524 S Fork Creek Rd, Liberty, KY 42539",,,(606) 787-5158,http://www.uky.edu/ccd/pricereports/KYPA/casey,(606) 787-0570
 -87.30877,36.84835,Produce Auction,Fairview Produce Auction,"10292 US Hwy 68E, Pembroke, KY 42266",,,(270) 887-0053,http://www.uky.edu/ccd/pricereports/KYPA/fairview,(270) 712-8502
 -85.972379,37.293561,Produce Auction,Hart County Produce Auction,"6880 Cub Run Hwy, Munfordville, KY 42765",,,(270) 624-0005,http://www.uky.edu/ccd/pricereports/KYPA/hart,
 -84.514334,37.502641,Produce Auction,Lincoln County Produce Auction,"2896 KY Hwy 39 N, Crab Orchard, KY 40419",,,(606) 355-0030,http://www.uky.edu/ccd/pricereports/KYPA/lincoln,(606) 355-0001
--83.71597,38.137246,Produce Auction,Bath County Produce Auction,"2914 East Hwy 60, Owingsville, KY 40360",Dan Miller,Auction Manager,(606) 336-0103,http://www.uky.edu/ccd/pricereports/KYPA/bath,
--87.356741,36.8558016,Roadside Stand,Hoover's Garden Patch,"615 Old Butler Road, Hopkinsville KY 42240",,,,,
--87.1558438,36.6856526,Roadside Stand,Jo Ann's Country Flowers,"6785 Russellville Road, Guthrie KY 42234",,,(270)-483-2806,,
--87.4964361,36.7226066,Roadside Stand,Country Side Fruit Market,"2425 Milliers Mill Road, Oak Grove KY 42262",,,(270)-885-4816,,
 -86.7005349,37.1138989,Roadside Stand,A Littlebit of Wylie,"1127 Richland Church Road Morgantown, KY 42261",Gina Wylie,,(270) 526-8697,ginawylie11602@aol.com,
 -85.4226497,37.0623818,Roadside Stand,Amelia Mcgough/Dba Gingerbread Farm & Gardens,"5055 Edmonton Road Columbia, KY 42728",Amelia Mcgough,,(270) 250-5873,gingerbreadtradingpost@gmail.com,
 -82.9685365,36.9844163,Roadside Stand,Apple Tree Orchards,"21991 Us 119 Cumberland, KY 40823",Terry Creech,,(606) 589-5735,gandtcreech@yahoo.com,
@@ -511,9 +508,9 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -84.2261198,37.9442351,Roadside Stand,"Beech Springs Farm Market, LLC","4776 Old Boonesboro Rd Winchester, KY 40391",Mary Beth Hendricks,,(859) 744-2868,mbhend27@yahoo.com,www.beechspringsfarmmarket.com
 -84.3,37.57,Roadside Stand,Berea College Farm,"CPO 1743 Berea, KY 40404",Sean Clark,,(859) 985-3402,farmstore@berea.edu,www.berea.edu/anr/farm-enterprises/
 -88.6957019,37.0853515,Roadside Stand,Berries By The Mall,"5315 Stanley Cemetery Road Paducah, KY 42001",Burton Gregory,,(270) 705-1677,kgarey50@hotmail.com,
--84.5639115,38.2267848,Roadside Stand,Bi-Water Farm & Greenhouse,"877 Cincinnati Rd Georgetown, KY 40324",Stephen Fister,,(502) 863-3676,biwaterfarm@bellsouth.net,www.biwaterfarm.com
 -84.1489607,37.8648211,Roadside Stand,Big - Swing Farm,"2645 Doylesville Rd Richmond, KY 40475",Martha W. Thurman,,(859) 624-0211,davidsgirl614@aol.com,
 -83.1741035,38.6058757,Roadside Stand,Big Barn Farm Store,"225 Mongomery Rd PO Box 550 Garrison, KY 41141",Jacob Bentley,,(606) 757-9208,jakegwena@outlook.com,
+-84.5639115,38.2267848,Roadside Stand,Bi-Water Farm & Greenhouse,"877 Cincinnati Rd Georgetown, KY 40324",Stephen Fister,,(502) 863-3676,biwaterfarm@bellsouth.net,www.biwaterfarm.com
 -83.7728189,37.6243801,Roadside Stand,Bledsoe's Farm,"3572 Highway 399 Beattyville, KY 41311",Charles Bledsoe,,(606) 560-6027,cbledsoe2000@yahoo.com,
 -84.8206388,37.2202503,Roadside Stand,Bobbett's,"106 Country Way Liberty, KY 42539",Bobbett Jascor,,(606) 787-0926,bobbett@windstream.net,www.BobbettsGarlic.com
 -85.3316969,38.5674913,Roadside Stand,Bray Orchard & Roadside Market,"2580 Hwy 42 W Bedford, KY 40006",Jamae Bray Pyles,,(502) 255-3607,brayorch@bellsouth.net,www.brayorchards.com
@@ -530,6 +527,7 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -87.3015254,37.0665474,Roadside Stand,Coal Creek Orchard,"22850 Coal Creek Rd Hopkinsville, KY 42240",Cory Houston,,(270) 348-4720,coal.creek16@gmail.com,
 -85.6370372,38.0156987,Roadside Stand,Country Corner Greenhouse & Nursery Inc.,"4877 Hwy 44E Shepherdsville, KY 40165",Ann Vowels,,(502) 955-8635,countrycornergreenhouse@gmail.com,www.countrycornergreenhouse.com
 -84.0956129,38.7204857,Roadside Stand,Country Love Sales,"3243 Bladeston Drive Brooksville, KY 41004",Linda Or Doug Campoamor,,(606) 735-2096,doug@countrylovesales.com,www.countrylovesales.com
+-87.4964361,36.7226066,Roadside Stand,Country Side Fruit Market,"2425 Milliers Mill Road, Oak Grove KY 42262",,,(270)-885-4816,,
 -83.6041307,38.1893937,Roadside Stand,Crawford's,"6485 Lower Licking Rd Morehead, KY 40351",Will Crawford,,(606) 776-7991,wscraw28@yahoo.com,
 -86.7856467,37.1757503,Roadside Stand,D & D Family Produce,"488 Stringtown Rd Morgantown, KY 42261",Dennis Cardwell,,(270) 526-2169,djcardwell1@hotmail.com,
 -84.537737,38.1913997,Roadside Stand,Dan Propes,"258 Harmony Ridge Georgetown, KY 40324",Dan Propes,,(270) 590-5436,doc134134@yahoo.com,
@@ -562,6 +560,7 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -85.6280898,38.3479962,Roadside Stand,Hiphip Homemade,"6700 Riverway Dr Prospect, KY 40059",Shannon Drabant,,(502) 494-9831,Drabant@me.com,
 -83.3835135,37.5531457,Roadside Stand,Homestead Farms,"9958 Hwy. 1110 Jackson, KY 41339",Ty Back,,(606) 568-0840,tback@uky.edu,
 -83.3314874,37.3434215,Roadside Stand,Honey Flower Farm,"115 Little Clabe Dr Hazard, KY 41701",Anita Noble,,,rebel13heart@yahoo.com,
+-87.356741,36.8558016,Roadside Stand,Hoover's Garden Patch,"615 Old Butler Road, Hopkinsville KY 42240",,,,,
 -87.5677814,37.8702541,Roadside Stand,Hopson Farms,"5422 Hwy 41 A Henderson, KY 42420",Mindy Hopson,,(270) 827-4562,mmhopson@hotmail.com,
 -86.87138,37.6831068,Roadside Stand,Howard Farms,"10800 Old Leichfield Rd Whitesville, KY 42378",Barry Howard,,(270) 315-6018,barryhoward35@yahoo.com,
 -84.8207628,38.2444769,Roadside Stand,Hutcherson Family Grown Produce,"2630 Steadmantown Ln Frankfort, KY 40601",Robert Hutcherson Jr.,,(502) 695-4232,veggieman4232@yahoo.com,
@@ -571,6 +570,7 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -84.6671655,37.3899724,Roadside Stand,J And J Farm,"105 South Fork Lake Rd Waynesburg, KY 40489",Julian Turpin,,(606) 282-8017,relaxme@newwavecomm.net,
 -86.457005,37.043548,Roadside Stand,Jackson's Orchard & Nursery Inc,"1280 Slim Island Rd Bowling Green, KY 42101",Bill Jackson,,(270) 781-5303,JacksonsOrchard@hughes.net,www.jacksonsorchard.com
 -84.5357902,37.7143816,Roadside Stand,Jlo Family Farm,"1413 Scotts Fork Road Lancaster, KY 40444",Mike Osborne,,(859) 229-9094,Lynn@mespecialty.com,
+-87.1558438,36.6856526,Roadside Stand,Jo Ann's Country Flowers,"6785 Russellville Road, Guthrie KY 42234",,,(270)-483-2806,,
 -84.2449169,38.2709502,Roadside Stand,Julie's Pumpkins,"1069 Ruddles Mill Rd Paris, KY 40361",Julie & Dennie Ferrell,,(859) 987-4498,julieferrell@att.net,
 -86.6500685,36.8683251,Roadside Stand,Just Piddlin Farm,"10830 S. Morgantown Rd Woodburn, KY 42170",Chip & Jill Willingham,,(270) 542-6769,rwillingham@logantele.com,www.justpiddlinfarm.com
 -84.9914908,38.2750373,Roadside Stand,Keach Manor,"4701 Lebanon Rd Bagdad, KY 40003",Nathe & Amy Keach,,(502) 607-0262,info@keach.us,www.keach.us
@@ -645,85 +645,91 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -88.6662713,37.0040065,Roadside Stand,Wurth Farms,"1720 S Friendship Rd Paducah, KY 42003",Alesia Grief,,(270) 554-1403,wurthfarms@comcast.net,wurthfarms.net
 -84.4704942,36.7234118,Roadside Stand,Yellow Box Bee Farm,"121 Kelly Road Whitley City, KY 42653",Jessica Musgrove,,(606) 376-5994,JESSICA.MUSGROVE@OUTDOORVENTURE.COM,
 -84.4237276,37.6601828,Roadside Stand,Zephyr Creek Crossing,"7500 Highway 1295 Paint Lick, KY 40461",Sue Peterson Blyth,,(859) 328-3805,sweetsue49@gmail.com,www.facebook/zephyrcreek
--83.9955872,37.6996412,Shared Equipment,Estill County Conservation District,"1505 Richmond Rd, Irvine, Kentucky 40336",Crystal Renfro,Office Staff,(606) 723-5104,ECCD@outlook.com,No-Till Seed Drill
 -85.3009084,37.1136651,Shared Equipment,Adair County Conservation District,"965 Campbellsville Rd, Columbia, KY, 42728",Steven Olt,Field Representative,(270) 384-6628,steven.olt@ky.gov,No-Till Seed Drill
+-86.2092329,36.7430173,Shared Equipment,Allen County Soil Conservation District ,"77 Woodland Circle Drive, Scottsville, KY 42164",Susan Mcpherson ,,(270) 237-3180,susan.mcpherson@ky.usda.gov,"Sprayer, Manure Spreader, Post Driver, No-Till Drill"
+-84.9041271,38.0780022,Shared Equipment,Anderson County Farm Bureau,"1245 Ninevah Road, Lawrenceburg, KY 40342",Tommy Yankey,,(502) 839-7271,tyankey@uky.edu,"No Till Seed Drill, Lime Spreader"
+-88.8881352,37.082819,Shared Equipment,Ballard County Soil Conservation District ,"1156 Kentucky Ave, Kevil, KY 42053",NRCS,,(270) 462-8561,,No-Till Drill
 -85.9311333,37.0103709,Shared Equipment,Barren County Conservation District,"207 Ymca Way, Glasgow, KY, 42141",District Office,Office Staff,(270) 629-6811,barrenconservation@gmail.com,Hay Wrapper
--84.0682546,38.6815963,Shared Equipment,Bracken County Conservation District,"218 Frankfort Street, PO Box 35, Brooksville, KY 41004",Pam Williams,Field Representative,(606) 735-3256,pam.williams@ky.gov,In-line Bale Wrapper
+-85.9311333,37.0103709,Shared Equipment,Barren County Soil Conservation District ,"207 YMCA Way, Glasgow, KY 42141",Lindsie Kinslow,,(270) 629-6811,,No-Till Drill
+-83.6949176,36.76203,Shared Equipment,Bell County Cooperative Extension ,"101 Courthouse Sq, Pineville, KY 40977",Stacy J. White,,(606) 337-2376,sjwhite@uky.edu,"Bed Shaper, Plastic Layer, Plastic Lifter, Plastic Roller, Lime Spreader, Vegetable Transplanter, No-Till Drill, Honey Extraction Equipment, Tillers, Sprayer, Broadcast Seeder"
+-84.2344598,38.2225279,Shared Equipment,Bourbon County Soil Conservation District ,"603 Millersburg Rd, Paris, KY 40324",Ray Tackett,,(859) 987-1895,atackett@uky.edu,Electric Honey Extractor
 -84.0441818,38.6717577,Shared Equipment,Bracken County Agriculture Advancement Council,"1120 Brooksville-Germantown Rd, Brooksville, KY 41004",David Appelman,Extension Agent,(606) 735-2141,dappelma@uky.edu,Lime Spreader
+-84.0682546,38.6815963,Shared Equipment,Bracken County Conservation District,"218 Frankfort Street, PO Box 35, Brooksville, KY 41004",Pam Williams,Field Representative,(606) 735-3256,pam.williams@ky.gov,In-line Bale Wrapper
+-86.4615516,37.7621643,Shared Equipment,Breckinridge County Cooperative Extension ,"US-60 & KY-261, Hardinsburg, KY 40143","Hobdy, Dye, Reed",,(270) 756-2555,,"Sprayer, No-Till Drill"
+-86.6849989,37.2278291,Shared Equipment,Butler County Soil Conservation District ,"216 W Ohio St C, Morgantown, KY 42261",,,(270) 526-3784,,No-Till Drill
+-87.8998918,37.112155,Shared Equipment,Caldwell County Soil Conservation District ,"503 Parkway Drive, Princeton, KY 42445",Mike Clayton,,(270) 366-6530,,"No-Till Drill, Crimper "
+-88.3517367,36.6039745,Shared Equipment,Calloway County Soil Conservation District ,"88 Robertson Rd S., Murray, KY 42071",Cindy Cossey,,(270) 767-0491,cindy@callowayconservation.com,No-Till Drill
 -85.1572089,38.6852316,Shared Equipment,Carroll  County Conservation District,"1802 Highland Avenue, Carrollton, KY 41008",Sheila Banks,Administrative Secretary,(502) 732-6098,sheila.banks@ky.nacdnet.net,No-Till Seed Drill
+-85.1289333,38.661459,Shared Equipment,Carroll County Soil Conservation District ,"500 Floyd Drive, Carrollton, KY 41008",Christin Herbst,,(502) 732-7030,christin.herbst@uky.edu,"Soil Probe, Compaction Probe"
 -82.9365849,38.3306122,Shared Equipment,Carter County Soil Conservation District,"526 E. Main Street, Grayson, KY 41143",Melodie Bush,Administrative Secretary,(606) 474-5184,melodie.bush@ky.nacdnet.net,"No-Till Seed Drill, Lime Spreader"
+-82.9365849,38.3306122,Shared Equipment,Carter County Soil Conservation District ,"526 E. Main Street, Grayson, KY 41143",Carter County Conservation District,,(606) 474-5184,melodie.bush@ky.nacdnet.net,"Sprayer, Lime Spreader, No-Till Drill"
 -84.1839117,38.0130263,Shared Equipment,Clark County Soil Conservation District,"667 Tech Drive, Winchest, KY 40391",Angela Embry,Administrative Secretary,(859)-744-2322,angela.embry@ky.nacdnet.net,No-Till Seed Drill
+-84.1839117,38.0130263,Shared Equipment,Clark County Soil Conservation District ,"667 Tech Dr, Winchester, KY 40391",Angie Embry,,(859) 745-2828 ext.3,,No-Till Drill
+-85.1299267,36.6825268,Shared Equipment,Clinton County Soil Conservation District ,"801 Tennessee Rd, Albany, KY 42602",,,(606) 387-5196,,"Lime Spreader, Post Driver, No-Till Drill"
+-88.0801604,37.3326682,Shared Equipment,Crittenden County FFA Alumni,"118 E. Bellville St, Marion, KY 42064",Dee Heimgartner,,(270) 965-5236,deanna.brasher@uky.edu,"No-Till Drill, Honey Extraction Equipment"
+-85.3686741,36.7850455,Shared Equipment,Cumberland County Soil Conservation District ,"329 Keen Street, Burkesville, KY 42717",Wanda Gilbert,,(270) 864-2206,wanda.gilbert@gmail.com,"Sprayer, Lime Spreader, No-Till Drill"
+-83.9955872,37.6996412,Shared Equipment,Estill County Conservation District,"1505 Richmond Rd, Irvine, Kentucky 40336",Crystal Renfro,Office Staff,(606) 723-5104,ECCD@outlook.com,No-Till Seed Drill
+-82.7650143,37.7138714,Shared Equipment,Floyd County Cooperative Extension ,"3490 KY-321, Prestonburg, KY 41653",Keith Hackworth & Andrea Johnson (kitchen) ,,(606) 886-2668,khackwor@uky.edu and andrea.johnson2@uky.edu,Honey Extraction Equipment
 -84.8186283,38.216193,Shared Equipment,Franklin County Conservation District,"103 Lakeview Court, Frankfort, KY 40601ﾠ",Eric Phillips,Conservation Technician,(502) 352-2701,ephillipsfccd@hotmail.com,"No-Till Seed Drill, Weed Wiper/Sprayer"
 -88.621661,36.7252333,Shared Equipment,Graves County Conservation District,"1000 Commonwealth Dr, Mayfield, KY 42066",Erica Marshall,Administrative Secretary,(270) 247-9529,Erica.marshall@ky.nacdnet.net,No-Till Seed Drill
+-84.2963788,38.3807539,Shared Equipment,Harrison County Cooperative Extension ,"668 New Lair Rd, Cynthiana, KY 41031",Evonne Blackburn,,(859) 234-5510,eblackbu@uky.edu,"Bed Shaper, Plastic Layer, Plastic Lifter, Plastic Roller, Sprayer, Lime Spreader, Vegetable Transplanter, Chain Harrow, No-Till Drill, Honey Extraction Equipment"
+-84.2963788,38.3807539,Shared Equipment,Harrison County Cooperative Extension ,"668 New Lair Road, Cynthiana, KY 41031",Evonne Blackburn,,(859) 234-5510,evonne.blackburn@uky.edu,"Plastic Layer, Plastic Lifter, Water Wheel Setter"
 -87.5077601,37.3446983,Shared Equipment,Hopkins County Farm Bureau,"585 Nebo Rd, Madisonville, KY 42431",Curtis Dame,Extension Agent,(270) 821-3650,curtis.dame@uky.edu,Sprayer
 -83.9993703,37.3146914,Shared Equipment,Jackson County Cattlemen's Association,"2883 Highway 30 W, Annville, KY 40402",David Coffey,Extension Agent,(606) 287-7693,david.coffey@uky.edu,"Weed Wiper, Sprayer, Lime Spreader"
+-84.0012956,37.4303062,Shared Equipment,Jackson County Jackson County Cattlemen's Association,"1408 Main Street South, McKee, KY 40447",David Coffey,,(606) 287-7693,david.coffey@uky.edu,"Sprayer, Lime Spreader, Chain Harrow, No-Till Drill, Wagon"
+-84.5661473,37.8633665,Shared Equipment,Jessamine County Cooperative Extension ,"95 Park Drive, Nicholasville, KY 40356",Jessica Lawrence,,(859) 8854811,jlawrence@uky.edu,"Bed Shaper, Plastic Layer, Plastic Lifter, Plastic Roller, Sprayer"
 -85.7461948,37.5733556,Shared Equipment,La Rue County Conservation District,"306 West Main Street, Hodgenville, KY 42748",Paula McDowell-Wood,Office Staff,(270) 358-3132,larueccd@hotmail.com,No-Till Seed Drill
--84.0794505,37.1196606,Shared Equipment,Laurel County Cattlemen's Association,"200 County Extension Rd, London, KY 40741",Glenn Williams,Extension Agent,(606) 864-4167,dl_ces_laurel@email.uky.edu,Manure Spreader
--86.8991433,36.8443041,Shared Equipment,Logan County Conservation District,"253 Hopkinsville Rd # C, Russellville, KY 42276",Leann Martin,Extension Agent,(270) 726-6323,leann.martin@uky.edu,"No-Till Seed Drill, Vegetable Transplanter"
--84.2739742,37.7011838,Shared Equipment,Madison County Farm Bureau,"230 Duncannon Lane, Richmond, KY 40476-0270",Brandon Sears,Extension Agent,(859) 623-4072,brandon.sears@uky.edu,"No-Till Seed Drill, Manure Spreader"
--85.2628032,37.5544024,Shared Equipment,Marion County Conservation District,"682 Metts Drive, Lebanon, KY 40033",Natalie Browning,Administrative Secretary,(270) 692-3341,natalie.browning@ky.nacdnet.net,"Sprayer, Lime Spreader, Thistle Sprayer"
--83.6513099,37.9556026,Shared Equipment,Menifee County Conservation District,"2093 Highway 460 W, Frenchburg, KY 40322",April Smith,Office Staff,(606) 768-2541,april.smith@ky.nacdnet.net,No-Till Seed Drill
--84.8502879,37.7759757,Shared Equipment,Mercer County Conservation District,"227 Morris Drive, Harrodsburg, KY 40330",Linda Lake,Administrative Secretary,(859) 734-6889,linda.lake2@ky.nacdnet.net,No-Till Seed Drill
--85.6068251,36.9753005,Shared Equipment,Metcalfe County Conservation District,"100 Scott Drive, Edmonton, KY 42129",Peggy Bridges,Office Staff,(270) 432-3191,metcocd@gmail.com,"No-Till Seed Drill, Plastic Layer"
--85.6869749,36.7098238,Shared Equipment,Monroe County Conservation District,"201 West Paige Street, Thompkinsville, KY 42167",Jarad Bartley,Conservation Technician,(270) 487-6589,Jarad.bartley@ky.nacdnet.net,"No-Till Seed Drill, Thistle Sprayer"
--84.026119,38.3115686,Shared Equipment,Nicholas County Conservation District,"368 East Main Street, Carlisle, KY 40311",Erica Brierly,Administrative Secretary,(859) 289-5165,nicholasconservation@hotmail.com,"No-Till Seed Drill, Chain Harrow"
--84.3202926,38.6552253,Shared Equipment,Pendleton County Beef Cattle Association,"45 David Pribble Dr, Falmouth, KY 41040",Lindie Huffman,Extension Agent,(859) 654-3395,lindie.huffman@uky.edu,Lime Spreader
--84.6535718,37.1022041,Shared Equipment,Pulaski County Conservation District,"28 Parkway Drive, Somerset, KY 42503",Beth Wilson,Extension Agent,(606) 679-6361,beth.wilson@uky.edu,"No-Till Seed Drill, Roller Crimper, Post Driver, Sprayer"
--85.3524973,37.3276762,Shared Equipment,Taylor County Conservation District,"1105 S. Columbia Avenue Suite B, Campbellsville, KY 42718",Linda Russell,Administrative Secretary,(270) 465-4651,Linda.russell@ky.nacdnet.net,No-Till Seed Drill
--86.259011,36.901737,Shared Equipment,Warren County Cattle Producers Association,"1238 Claypool Alvaton Road, Bowling Green, KY 42103",Shane Wahl,Director,(270) 779-6078,dl_ces_warren@email.uky.ed,"Chain Harrow, Sprayer"
--85.2226901,37.6834908,Shared Equipment,Washington County Farm Bureau,"100 E Depot St, Springfield, KY 40069",Jeremy Hardin,Agency Manager,(859) 336-9472,[none],Manure Spreader
--85.2242075,37.700355,Shared Equipment,Washington County Conservation District,"461 Lincoln Drive, Springfield, KY 40069",Dana Shewmaker,Administrative Secretary,(859) 336-7777,Dana.shewmaker@ky.nacdnet.net,"Lime Spreader, Sprayer"
--84.7581091,38.0477522,Shared Equipment,Woodford County Conservation District,"180 Beasley Road, Versailles, KY 40383",Jimmy Chambers,Administrative Secretary,(859) 873-4941,woodfordcd@gmail.com,No-Till Drill
--83.069311,37.746311,Water Testing Lab,"Mineral Labs, Inc.","309 Parkway Dr., Salyersville, KY 41465 ",,No,606-349-6145,sharlonda@minerallabs.com,Scheduling encouraged
--84.525291,38.001179,Water Testing Lab,"Microbac Laboratories, Inc.","2520 Regency Road, Lexington, KY 40503",,Yes,859-276-3506,jarod.roop@microbac.com,Scheduling encouraged
--86.03432,37.562802,Water Testing Lab,White Mills Laboratory/Hardin Co. Water District No. 2,"1300 Cave Road, Glendale, KY 42740",,No,270-862-3213,WhiteMillsLab@hardincountywater2.org,Scheduling encouraged
--87.155513,36.651702,Water Testing Lab,Logan/Todd Regional Water Commission ,"248 Tower Street, Guthrie, KY 42234",,No,270-483-6990,tmccullough@ltrwc.org,Scheduling required
--85.557805,38.198561,Water Testing Lab,Beckmar Environmental Laboratory,"3251 Ruckriegel Parkway, Louisville Ky 40299",,Yes,502-266-6533,matt@beckmarlab.com,Scheduling optional
--84.574768,37.874623,Water Testing Lab,Hall Environmental Consultants,"1376 Danville Loop 1 Road, Nicholasville, KY 40356",,Yes,859-885-3331,rshelley@hallenvironmental.net,Scheduling encouraged
--84.734801,38.06176,Water Testing Lab,Fouser Environmental Services,"165 Camden Avenue, Versailles, Kentucky 40383",,Yes,859-873-6211,lab@fouser.com,Scheduling encouraged
--86.469427,36.960447,Water Testing Lab,HydroAnalytical WKU,"2413 Nashville Road, Bowling Green, KY 42101",,Yes,270-745-5287,ethan.givan@wku.edu,Scheduling encouraged
--87.115106,37.764758,Water Testing Lab,"Waters Agricultural Laboratories, Inc. ","2101 Calhoun Road, Owensboro, KY 42301",,Yes,270-685-4039,kyinfo@watersag.com,Scheduling encouraged
--83.436333,38.191159,Water Testing Lab,Morehead State University Water Testing Lab,"444 Ashland Avenue, Morehead, KY 40351",,No,606-783-2961,jrmason@moreheadstate.edu,Scheduling required
--88.641672,37.056605,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory","3038 Lone Oak Rd Suite 4, Paducah, KY 42003",Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,Scheduling optional
--84.44471,38.033936,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory","2456 Fortune #160, Dr Lexington, KY 40509",Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,Scheduling optional
--82.528632,37.461988,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory","173 Island Creek Rd Pikeville, KY 41501",Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,Scheduling optional
--87.549713,37.359551,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory","825 Industrial Rd, Madisonville, KY 42431",Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,Scheduling optional
--82.51752,37.42571,Water Testing Lab,"Appalachian States Analytical, LLC","181 Longview Dr. Pikeville, KY 41501",,Yes,606-437-5616,jill@appalachian-states.com,Scheduling encouraged if > 12 samples
--85.33536,37.21589,Water Testing Lab,Fouser Environmental Services,"555 Griffin Springs Rd. Campbellsville, KY 42718",,No,859-753-4101,AdairFES@gmail.com,Scheduling required
--85.70193,38.17814,Water Testing Lab,"Microbac Laboratories, Inc.","3323 Gilmore Industrial Blvd. Louisville, KY 40213",,Yes,502-962-6400,Lisa.Martin@microbac.com,Scheduling encouraged
--88.5314,37.02061,Water Testing Lab,"Microbac Laboratories, Inc.","5309 Reidland Rd. Paducah, KY 42003",,Yes,270-898-3637,David.Richardson@microbac.com,Scheduling encouraged
--84.49338,38.07914,Water Testing Lab,Venture Laboratories,"848 Nandino Blvd. Ste. K Lexington, KY 40511",,Yes,859-281-6330,knewman@ventlabs.com,Scheduling encouraged if > 12 samples
--83.6949176,36.76203,Shared Equipment,Bell County Cooperative Extension ,"101 Courthouse Sq, Pineville, KY 40977",Stacy J. White,,(606) 337-2376,sjwhite@uky.edu,"Bed Shaper, Plastic Layer, Plastic Lifter, Plastic Roller, Lime Spreader, Vegetable Transplanter, No-Till Drill, Honey Extraction Equipment, Tillers, Sprayer, Broadcast Seeder"
--86.4615516,37.7621643,Shared Equipment,Breckinridge County Cooperative Extension ,"US-60 & KY-261, Hardinsburg, KY 40143","Hobdy, Dye, Reed",,(270) 756-2555,,"Sprayer, No-Till Drill"
--85.3686741,36.7850455,Shared Equipment,Cumberland County Soil Conservation District ,"329 Keen Street, Burkesville, KY 42717",Wanda Gilbert,,(270) 864-2206,wanda.gilbert@gmail.com,"Sprayer, Lime Spreader, No-Till Drill"
 -85.7461948,37.5733556,Shared Equipment,Larue County Soil Conservation District ,"306 West Main Street, Hodgenville, KY 42748",Paula Wood,,(270) 358-3132,,No-Till Drill
+-84.0794505,37.1196606,Shared Equipment,Laurel County Cattlemen's Association,"200 County Extension Rd, London, KY 40741",Glenn Williams,Extension Agent,(606) 864-4167,dl_ces_laurel@email.uky.edu,Manure Spreader
 -83.7009406,37.5818123,Shared Equipment,Lee County Soil Conservation District ,"32 Big Hill Drive, Beattyville, KY 41311",Lee County Conservation district,,(606) 565-8480,,"Lime Spreader, Chain Harrow, No-Till Drill"
 -84.6742343,37.5495905,Shared Equipment,Lincoln County Farm Bureau,"233 Doe Run Rd, Stanford, KY 40484",,,(606) 365-2447,,"Sprayer, Lime Spreader, Manure Spreader, Chain Harrow, Post Driver, No-Till Drill, Broadcast Seeder"
 -88.3971012,37.154656,Shared Equipment,Livingston County Cooperative Extension ,"803 US-60, Smithland, KY 42081",Adam Barnes,,(270) 928-2168,adam.barnes1@uky.edu,Honey Extraction Equipment
--86.2092329,36.7430173,Shared Equipment,Allen County Soil Conservation District ,"77 Woodland Circle Drive, Scottsville, KY 42164",Susan Mcpherson ,,(270) 237-3180,susan.mcpherson@ky.usda.gov,"Sprayer, Manure Spreader, Post Driver, No-Till Drill"
--88.8881352,37.082819,Shared Equipment,Ballard County Soil Conservation District ,"1156 Kentucky Ave, Kevil, KY 42053",NRCS,,(270) 462-8561,,No-Till Drill
--85.9311333,37.0103709,Shared Equipment,Barren County Soil Conservation District ,"207 YMCA Way, Glasgow, KY 42141",Lindsie Kinslow,,(270) 629-6811,,No-Till Drill
--87.8998918,37.112155,Shared Equipment,Caldwell County Soil Conservation District ,"503 Parkway Drive, Princeton, KY 42445",Mike Clayton,,(270) 366-6530,,"No-Till Drill, Crimper "
--88.3517367,36.6039745,Shared Equipment,Calloway County Soil Conservation District ,"88 Robertson Rd S., Murray, KY 42071",Cindy Cossey,,(270) 767-0491,cindy@callowayconservation.com,No-Till Drill
--82.9365849,38.3306122,Shared Equipment,Carter County Soil Conservation District ,"526 E. Main Street, Grayson, KY 41143",Carter County Conservation District,,(606) 474-5184,melodie.bush@ky.nacdnet.net,"Sprayer, Lime Spreader, No-Till Drill"
--84.1839117,38.0130263,Shared Equipment,Clark County Soil Conservation District ,"667 Tech Dr, Winchester, KY 40391",Angie Embry,,(859) 745-2828 ext.3,,No-Till Drill
--88.0801604,37.3326682,Shared Equipment,Crittenden County FFA Alumni,"118 E. Bellville St, Marion, KY 42064",Dee Heimgartner,,(270) 965-5236,deanna.brasher@uky.edu,"No-Till Drill, Honey Extraction Equipment"
--82.7650143,37.7138714,Shared Equipment,Floyd County Cooperative Extension ,"3490 KY-321, Prestonburg, KY 41653",Keith Hackworth & Andrea Johnson (kitchen) ,,(606) 886-2668,khackwor@uky.edu and andrea.johnson2@uky.edu,Honey Extraction Equipment
--84.2963788,38.3807539,Shared Equipment,Harrison County Cooperative Extension ,"668 New Lair Rd, Cynthiana, KY 41031",Evonne Blackburn,,(859) 234-5510,eblackbu@uky.edu,"Bed Shaper, Plastic Layer, Plastic Lifter, Plastic Roller, Sprayer, Lime Spreader, Vegetable Transplanter, Chain Harrow, No-Till Drill, Honey Extraction Equipment"
--84.0012956,37.4303062,Shared Equipment,Jackson County Jackson County Cattlemen's Association,"1408 Main Street South, McKee, KY 40447",David Coffey,,(606) 287-7693,david.coffey@uky.edu,"Sprayer, Lime Spreader, Chain Harrow, No-Till Drill, Wagon"
--84.5661473,37.8633665,Shared Equipment,Jessamine County Cooperative Extension ,"95 Park Drive, Nicholasville, KY 40356",Jessica Lawrence,,(859) 8854811,jlawrence@uky.edu,"Bed Shaper, Plastic Layer, Plastic Lifter, Plastic Roller, Sprayer"
+-86.8991433,36.8443041,Shared Equipment,Logan County Conservation District,"253 Hopkinsville Rd # C, Russellville, KY 42276",Leann Martin,Extension Agent,(270) 726-6323,leann.martin@uky.edu,"No-Till Seed Drill, Vegetable Transplanter"
+-84.2739742,37.7011838,Shared Equipment,Madison County Farm Bureau,"230 Duncannon Lane, Richmond, KY 40476-0270",Brandon Sears,Extension Agent,(859) 623-4072,brandon.sears@uky.edu,"No-Till Seed Drill, Manure Spreader"
+-85.2628032,37.5544024,Shared Equipment,Marion County Conservation District,"682 Metts Drive, Lebanon, KY 40033",Natalie Browning,Administrative Secretary,(270) 692-3341,natalie.browning@ky.nacdnet.net,"Sprayer, Lime Spreader, Thistle Sprayer"
 -85.2627771,37.554364,Shared Equipment,Marion County Soil Conservation District ,"682 Metts Drive, Lebanon, KY 40033",Natalie Browning ,,(270) 692-2431,,"Sprayer, Lime Spreader, No-Till Drill, Aerator"
--82.5287316,37.865025,Shared Equipment,Martin County Cooperative Extension ,"1338 Main Street, Inez, KY 41224",Roger Mollette,,(606) 298-7742,rmollett@uky.edu,"Bed Shaper, Plastic Layer, Honey Extraction Equipment"
--84.6046649,38.2108892,Shared Equipment,Menifee County Soil Conservation District ,"2093 Highway 460 W, Frenchburg, KY 40322",April Smith,,(606) 768-2541,,"Bed Shaper, Plastic Layer, Lime Spreader, No-Till Drill"
--85.6889424,36.7100353,Shared Equipment,Monroe County Soil Conservation District ,"201 West Paige Street, Tompkinsville, KY 42167",Jarad Bartley,,(270) 487-6528,jarad.bartley@ky.nacdnet.net,"Sprayer, No-Till Drill"
--83.6756734,37.4767583,Shared Equipment,Owsley County Soil Conservation District ,"Jockey Street, Booneville, KY 41314",Sandy Gay,,(606) 593-7505,,"Bed Shaper, Plastic Layer, Lime Spreader, Vegetable Transplanter, Chain Harrow, No-Till Drill"
--85.3416416,38.0317805,Shared Equipment,Spencer County Soil Conservation District ,"410 Railroad St, Taylorsville, KY 40071",Doloras Richardson,,(502) 477-1157,,No-Till Drill
--87.7943776,36.8690547,Shared Equipment,Trigg County Soil Conservation District ,"193 Commerce Street, Cadiz, KY 42211",Trigg County Conservation District,,(270) 522-3304,,No-Till Drill
--83.5456925,37.7346387,Shared Equipment,Wolfe County Soil Conservation District ,"Main Street, Campton, KY 41301",Kevin Hileman,,(606) 668-3111,,"Lime Spreader, Manure Spreader, Chain Harrow, No-Till Drill, Aerator"
--86.6849989,37.2278291,Shared Equipment,Butler County Soil Conservation District ,"216 W Ohio St C, Morgantown, KY 42261",,,(270) 526-3784,,No-Till Drill
--85.1299267,36.6825268,Shared Equipment,Clinton County Soil Conservation District ,"801 Tennessee Rd, Albany, KY 42602",,,(606) 387-5196,,"Lime Spreader, Post Driver, No-Till Drill"
--84.9041271,38.0780022,Shared Equipment,Anderson County Farm Bureau,"1245 Ninevah Road, Lawrenceburg, KY 40342",Tommy Yankey,,(502) 839-7271,tyankey@uky.edu,"No Till Seed Drill, Lime Spreader"
--84.2963788,38.3807539,Shared Equipment,Harrison County Cooperative Extension ,"668 New Lair Road, Cynthiana, KY 41031",Evonne Blackburn,,(859) 234-5510,evonne.blackburn@uky.edu,"Plastic Layer, Plastic Lifter, Water Wheel Setter"
--85.1289333,38.661459,Shared Equipment,Carroll County Soil Conservation District ,"500 Floyd Drive, Carrollton, KY 41008",Christin Herbst,,(502) 732-7030,christin.herbst@uky.edu,"Soil Probe, Compaction Probe"
 -88.3537955,36.8644171,Shared Equipment,Marshall County Soil Conservation District ,"107 W 5th St, Benton, KY 42025, Benton, KY 42025",Farm Service Agency,,(270) 527-3231,kybenton-fsa@one.usda.gov ,No Till Seed Drill 
--84.2344598,38.2225279,Shared Equipment,Bourbon County Soil Conservation District ,"603 Millersburg Rd, Paris, KY 40324",Ray Tackett,,(859) 987-1895,atackett@uky.edu,Electric Honey Extractor
+-82.5287316,37.865025,Shared Equipment,Martin County Cooperative Extension ,"1338 Main Street, Inez, KY 41224",Roger Mollette,,(606) 298-7742,rmollett@uky.edu,"Bed Shaper, Plastic Layer, Honey Extraction Equipment"
+-83.6513099,37.9556026,Shared Equipment,Menifee County Conservation District,"2093 Highway 460 W, Frenchburg, KY 40322",April Smith,Office Staff,(606) 768-2541,april.smith@ky.nacdnet.net,No-Till Seed Drill
+-84.6046649,38.2108892,Shared Equipment,Menifee County Soil Conservation District ,"2093 Highway 460 W, Frenchburg, KY 40322",April Smith,,(606) 768-2541,,"Bed Shaper, Plastic Layer, Lime Spreader, No-Till Drill"
+-84.8502879,37.7759757,Shared Equipment,Mercer County Conservation District,"227 Morris Drive, Harrodsburg, KY 40330",Linda Lake,Administrative Secretary,(859) 734-6889,linda.lake2@ky.nacdnet.net,No-Till Seed Drill
+-85.6068251,36.9753005,Shared Equipment,Metcalfe County Conservation District,"100 Scott Drive, Edmonton, KY 42129",Peggy Bridges,Office Staff,(270) 432-3191,metcocd@gmail.com,"No-Till Seed Drill, Plastic Layer"
+-85.6869749,36.7098238,Shared Equipment,Monroe County Conservation District,"201 West Paige Street, Thompkinsville, KY 42167",Jarad Bartley,Conservation Technician,(270) 487-6589,Jarad.bartley@ky.nacdnet.net,"No-Till Seed Drill, Thistle Sprayer"
+-85.6889424,36.7100353,Shared Equipment,Monroe County Soil Conservation District ,"201 West Paige Street, Tompkinsville, KY 42167",Jarad Bartley,,(270) 487-6528,jarad.bartley@ky.nacdnet.net,"Sprayer, No-Till Drill"
+-84.026119,38.3115686,Shared Equipment,Nicholas County Conservation District,"368 East Main Street, Carlisle, KY 40311",Erica Brierly,Administrative Secretary,(859) 289-5165,nicholasconservation@hotmail.com,"No-Till Seed Drill, Chain Harrow"
+-83.6756734,37.4767583,Shared Equipment,Owsley County Soil Conservation District ,"Jockey Street, Booneville, KY 41314",Sandy Gay,,(606) 593-7505,,"Bed Shaper, Plastic Layer, Lime Spreader, Vegetable Transplanter, Chain Harrow, No-Till Drill"
+-84.3202926,38.6552253,Shared Equipment,Pendleton County Beef Cattle Association,"45 David Pribble Dr, Falmouth, KY 41040",Lindie Huffman,Extension Agent,(859) 654-3395,lindie.huffman@uky.edu,Lime Spreader
+-84.6535718,37.1022041,Shared Equipment,Pulaski County Conservation District,"28 Parkway Drive, Somerset, KY 42503",Beth Wilson,Extension Agent,(606) 679-6361,beth.wilson@uky.edu,"No-Till Seed Drill, Roller Crimper, Post Driver, Sprayer"
+-85.3416416,38.0317805,Shared Equipment,Spencer County Soil Conservation District ,"410 Railroad St, Taylorsville, KY 40071",Doloras Richardson,,(502) 477-1157,,No-Till Drill
+-85.3524973,37.3276762,Shared Equipment,Taylor County Conservation District,"1105 S. Columbia Avenue Suite B, Campbellsville, KY 42718",Linda Russell,Administrative Secretary,(270) 465-4651,Linda.russell@ky.nacdnet.net,No-Till Seed Drill
+-87.7943776,36.8690547,Shared Equipment,Trigg County Soil Conservation District ,"193 Commerce Street, Cadiz, KY 42211",Trigg County Conservation District,,(270) 522-3304,,No-Till Drill
+-86.259011,36.901737,Shared Equipment,Warren County Cattle Producers Association,"1238 Claypool Alvaton Road, Bowling Green, KY 42103",Shane Wahl,Director,(270) 779-6078,dl_ces_warren@email.uky.ed,"Chain Harrow, Sprayer"
+-85.2242075,37.700355,Shared Equipment,Washington County Conservation District,"461 Lincoln Drive, Springfield, KY 40069",Dana Shewmaker,Administrative Secretary,(859) 336-7777,Dana.shewmaker@ky.nacdnet.net,"Lime Spreader, Sprayer"
+-85.2226901,37.6834908,Shared Equipment,Washington County Farm Bureau,"100 E Depot St, Springfield, KY 40069",Jeremy Hardin,Agency Manager,(859) 336-9472,,Manure Spreader
+-83.5456925,37.7346387,Shared Equipment,Wolfe County Soil Conservation District ,"Main Street, Campton, KY 41301",Kevin Hileman,,(606) 668-3111,,"Lime Spreader, Manure Spreader, Chain Harrow, No-Till Drill, Aerator"
+-84.7581091,38.0477522,Shared Equipment,Woodford County Conservation District,"180 Beasley Road, Versailles, KY 40383",Jimmy Chambers,Administrative Secretary,(859) 873-4941,woodfordcd@gmail.com,No-Till Drill
+-82.51752,37.42571,Water Testing Lab,"Appalachian States Analytical, LLC","181 Longview Dr. Pikeville, KY 41501",,None,606-437-5616,jill@appalachian-states.com,
+-85.557805,38.198561,Water Testing Lab,Beckmar Environmental Laboratory,"3251 Ruckriegel Parkway, Louisville KY 40299",,None,502-266-6533,matt@beckmarlab.com,"can arrange off-site sample drop-off, call to schedule"
+-84.734801,38.06176,Water Testing Lab,Fouser Environmental Services,"165 Camden Avenue, Versailles, Kentucky 40383",,None,859-873-6211,lab@fouser.com,
+-85.33536,37.21589,Water Testing Lab,Fouser Environmental Services,"555 Griffin Springs Rd. Campbellsville, KY 42718",,None,859-753-4101,AdairFES@gmail.com,scheduling not required during business hours
+-84.574768,37.874623,Water Testing Lab,Hall Environmental Consultants,"1376 Danville Loop 1 Road, Nicholasville, KY 40356",,None,859-885-3331,rshelley@hallenvironmental.net,"can arrange off-site sample drop-off, call to schedule"
+-86.107323,37.696362,Water Testing Lab,Hardin Co. Water District No. 1 (Pirtle Springs Lab),"1500 Shipley Road, Cecilia, KY 42724",,None,270-862-4340,cghoman@kcwd.com,
+-86.03432,37.562802,Water Testing Lab,Hardin Co. Water District No. 2 (White Mills Lab),"1300 Cave Road, Glendale, KY 42740",,None,270-862-3213,WhiteMillsLab@hardincountywater2.org,
+-86.469427,36.960447,Water Testing Lab,HydroAnalytical WKU,"2413 Nashville Road Suite 100, Bowling Green, KY 42101",,None,270-745-5287,ethan.givan@wku.edu,
+-87.155513,36.651702,Water Testing Lab,Logan/Todd Regional Water Commission ,"248 Tower Street, Guthrie, KY 42234",,None,270-483-6990,tmccullough@ltrwc.org,
+-88.641672,37.056605,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory","3038 Lone Oak Rd Suite 4, Paducah, KY 42003",Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,NO on-site sampling
+-84.44471,38.033936,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory","2456 Fortune Drive #160, Lexington, KY 40509",Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,NO on-site sampling
+-82.528632,37.461988,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory","173 Island Creek Rd Pikeville, KY 41501",Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,
+-87.549713,37.359551,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory","825 Industrial Rd, Madisonville, KY 42431",Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,NO on-site sampling
+-84.525291,38.001179,Water Testing Lab,"Microbac Laboratories, Inc.","2520 Regency Road, Lexington, KY 40503",,Yes,859-276-3506,jarod.roop@microbac.com,NO on-site sampling
+-85.70193,38.17814,Water Testing Lab,"Microbac Laboratories, Inc.","3323 Gilmore Industrial Blvd. Louisville, KY 40213",,Yes,502-962-6400,joan.heinsohn@microbac.com,NO on-site sampling
+-88.5314,37.02061,Water Testing Lab,"Microbac Laboratories, Inc.","5309 Reidland Road, Paducah, KY 42003",,Yes,270-898-3637,David.Richardson@microbac.com,"can arrange off-site sample drop-off, call to schedule, NO on-site sampling"
+-82.601102,38.397602,Water Testing Lab,"Mineral Labs, Inc.","13127 Old US 23, Catlettsburg, KY 41129",,None,606-739-8611,sharlonda@minerallabs.com,Must pre-arrange sample drop-off
+-83.4535,36.8267,Water Testing Lab,"Mineral Labs, Inc.","980 Hwy 3449, Coldiron, KY 40819",,None,606-664-3853,sharlonda@minerallabs.com,Must pre-arrange sample drop-off
+-83.1932,37.2495,Water Testing Lab,"Mineral Labs, Inc.","1845 South KY Hwy 476, Hazard, KY 41702",,None,606-487-9950,sharlonda@minerallabs.com,Must pre-arrange sample drop-off
+-82.415216,37.558273,Water Testing Lab,"Mineral Labs, Inc.","2062 State Hwy 194E, Meta, KY 41501",,None,606-631-1414,sharlonda@minerallabs.com,Must pre-arrange sample drop-off
+-83.069311,37.746311,Water Testing Lab,"Mineral Labs, Inc.","309 Parkway Dr., Salyersville, KY 41465 ",,None,606-349-6145,sharlonda@minerallabs.com,
+-83.436333,38.191159,Water Testing Lab,Morehead State University Water Testing Lab,"444 Ashland Avenue, Morehead, KY 40351",,None,606-783-2961,jrmason@moreheadstate.edu,
+-84.564792,39.007922,Water Testing Lab,Pace Analytical Laboratory,"931 Dudley Road, Edgewood, KY 41017",,Yes,859-341-9989,nick.geisel@pacelabs.com,
+-84.49338,38.07914,Water Testing Lab,Venture Laboratories,"848 Nandino Blvd. Ste. K Lexington, KY 40511",,None,859-281-6330,knewman@ventlabs.com,
+-87.115106,37.764758,Water Testing Lab,"Waters Agricultural Laboratories, Inc. ","2101 Calhoun Road, Owensboro, KY 42301",,None,270-685-4039,kyinfo@watersag.com,NO on-site sampling
