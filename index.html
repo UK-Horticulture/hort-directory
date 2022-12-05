@@ -210,7 +210,9 @@
           <li><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Roadside Farmstands</b> - data provided by KDA, September 2018 <a href="https://www.kyfb.com/federation/roadside-farm-markets/roadside-farm-market-owners/" target="_blank"><img src="info-tiny.png"></a></li>
           <li><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Agritourism Venue</b> - data provided by KDA, September 2018 <a href="http://www.kyagr.com/marketing/agritourism.html" target="_blank"><img src="info-tiny.png"></a></li>
           <li><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Water Testing Lab</b> - data provided by KHC and UK Food Connection <a href="https://foodconnection.ca.uky.edu/" target="_blank"><img src="info-tiny.png"></a>
-            <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;and the UK Food Systems Innovation Center, October 2018 <a href="http://www.uky.edu/fsic/" target="_blank"><img src="info-tiny.png"></a></li>
+            <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;and the UK Food Systems Innovation Center, November 2022 <a href="http://www.uky.edu/fsic/" target="_blank"><img src="info-tiny.png"></a>
+              <br><br><i>Disclaimer: this laboratory listing was last updated November 2022 and is intended for informational purposes only. Inclusion does not imply approval or recommendation by the Kentucky Horticulture Council. Additional laboratories may be located within the state that offer Coliform/E. coli testing. It is the grower’s responsibility to select a laboratory suitable for their operation and to communicate directly with the lab.</i>
+          </li>
         </ul><br>
         </p>
         <p><h2>Funding and Support</h2><br><center>
@@ -457,9 +459,9 @@
                     onEachFeature : function(feature,layer) {
                       var props = feature.properties;
                       var locationPopup =
-                        "<h2>" + props.resource_t + "</h2><br><b>" + props.org_name + "</b><br><br>" + props.address + "<br><br>Minimum Invoice Amount:  <b><font color='red'>" + props.contact_ti +
+                        "<h2>" + props.resource_t + "</h2><br><b>" + props.org_name + "</b><br><br>" + props.address +
                         "<br></font><br>Sampling Notes:<br></b>" + props.optional_r + "</font><p><b>Contact Information:  <br></b></b>" + props.phone + "<br><a href='mailto:" +
-                        props.email + "'>" + props.email + "</a></p>";
+                        props.email + "'>" + props.email + "</a><br><a href='mailto:" + props.contact_ti + "'>" + props.contact_ti + "</a></p>";
                         layer.bindPopup(locationPopup)
                     }
                 }).addTo(map);

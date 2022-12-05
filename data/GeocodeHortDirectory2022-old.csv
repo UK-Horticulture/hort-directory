@@ -748,23 +748,28 @@ LON,LAT,resource_t,org_name,address,contact_na,contact_ti,phone,email,optional_r
 -84.17702167,36.79550369,Shared Equipment,Whitley County Cooperative Extension Office,"4275 U.S. 25W N, Williamsburg, KY 40769",,,(606) 549-1430,,"Plastic Mulch Layer, Mulch Lifter, Water Wheel, Potato Planter, Potato Hiller, Potato Digger"
 -83.5456925,37.7346387,Shared Equipment,Wolfe County Soil Conservation District ,"Main Street, Campton, KY 41301",,,(606) 668-3111,,"Lime Spreader, Manure Spreader, Chain Harrow, No-Till Drill, Aerator, Hay Wrapper"
 -84.7581091,38.0477522,Shared Equipment,Woodford County Conservation District,"180 Beasley Road, Versailles, KY 40383",District Office:  (859) 873-4941,CES Office,(859) 873-4601,,"No-Till Drill, Plastic Layer, Plastic Lifter, Post Driver, No-Till Drill, Honey Extractor, Hay Wrapper, BCS Tractor"
--85.557805,38.198561,Water Testing Lab,Beckmar Environmental Laboratory,"3251 Ruckriegel Parkway, Louisville KY 40299",,margaret@beckmarlab.com,502-266-6533,matt@beckmarlab.com,none
--84.734801,38.06176,Water Testing Lab,Fouser Environmental Services,"165 Camden Avenue, Versailles, Kentucky 40383",,,859-873-6211,lab@fouser.com,none
--85.33536,37.21589,Water Testing Lab,Fouser Environmental Services,"555 Griffin Springs Rd. Campbellsville, KY 42718",,,859-753-4101,columbia@fouser.com,none
--84.574768,37.874623,Water Testing Lab,Hall Environmental Consultants,"1376 Danville Loop 1 Road, Nicholasville, KY 40356",,,859-885-3331,rshelley@hallenvironmental.net,none
--86.107323,37.696362,Water Testing Lab,Hardin Co. Water District No. 1 (Pirtle Springs Lab),"1500 Shipley Road, Cecilia, KY 42724",,,270-862-4340,cghoman@kcwd.com,none
--86.03432,37.562802,Water Testing Lab,Hardin Co. Water District No. 2 (White Mills Lab),"1300 Cave Road, Glendale, KY 42740",,rkynett@hcwd2.org,270-862-3213,WhiteMillsLab@hcwd2.org,none
--86.469427,36.960447,Water Testing Lab,HydroAnalytical WKU,"2413 Nashville Road Suite 100, Bowling Green, KY 42101",,morgan.miller@wku.edu,270-745-5287,hydroanalytical@wku.edu,none
--87.155513,36.651702,Water Testing Lab,Logan/Todd Regional Water Commission ,"248 Tower Street, Guthrie, KY 42234",,,270-483-6990,phiggins@ltrwc.org,none
--84.44471,38.033936,Water Testing Lab,Pace Analytical Laboratory,"2456 Fortune Drive #160, Lexington, KY 40509",Archie Fugate,,270-824-2236,archie.fugate@pacelabs.com,none
--82.528632,37.461988,Water Testing Lab,Pace Analytical Laboratory,"173 Island Creek Rd Pikeville, KY 41501",Archie Fugate,,270-824-2236,archie.fugate@pacelabs.com,none
--87.549713,37.359551,Water Testing Lab,Pace Analytical Laboratory,"825 Industrial Rd, Madisonville, KY 42431",Archie Fugate,,270-824-2236,archie.fugate@pacelabs.com,none
--84.525291,38.001179,Water Testing Lab,"Microbac Laboratories, Inc.","2520 Regency Road, Lexington, KY 40503",,,859-276-3506,crystal.williams@microbac.com,none
--85.70193,38.17814,Water Testing Lab,"Microbac Laboratories, Inc.","3323 Gilmore Industrial Blvd. Louisville, KY 40213",,,502-962-6400,venetta.smith@microbac.com,none
--88.5314,37.02061,Water Testing Lab,"Microbac Laboratories, Inc.","5309 Reidland Road, Paducah, KY 42003",,,270-898-3637,tom.mosely@microbac.com,none
--82.601102,38.397602,Water Testing Lab,"Mineral Labs, Inc.","13127 Old US 23, Catlettsburg, KY 41129",,,606-739-8611,sharlonda@minerallabs.com,Call to schedule delivery
--83.1932,37.2495,Water Testing Lab,"Mineral Labs, Inc.","1021 Tori Drive, Hazard, KY 41701",,,606-487-9950,sharlonda@minerallabs.com,Call to schedule delivery
--82.415216,37.558273,Water Testing Lab,"Mineral Labs, Inc.","2062 State Hwy 194E, Meta, KY 41501",,,606-631-1414,sharlonda@minerallabs.com,Call to schedule delivery
--83.069311,37.746311,Water Testing Lab,"Mineral Labs, Inc.","309 Parkway Dr., Salyersville, KY 41465 ",,,606-349-6145,sharlonda@minerallabs.com,Call to schedule delivery
--84.49338,38.07914,Water Testing Lab,Venture Laboratories,"805 Newtown Circle, Ste. 150, Lexington, KY 40511",,,859-281-6330,knewman@ventlabs.com,none
--87.115106,37.764758,Water Testing Lab,"Waters Agricultural Laboratories, Inc. ","2101 Calhoun Road Hwy 81, Owensboro, KY 42301",,,270-685-4039,kyinfo@watersag.com,NO on-site sampling
+-82.51752,37.42571,Water Testing Lab,"Appalachian States Analytical, LLC","181 Longview Dr. Pikeville, KY 41501",,None,606-437-5616,jill@appalachian-states.com,none
+-85.557805,38.198561,Water Testing Lab,Beckmar Environmental Laboratory,"3251 Ruckriegel Parkway, Louisville KY 40299",,None,502-266-6533,matt@beckmarlab.com,"can arrange off-site sample drop-off, call to schedule"
+-84.734801,38.06176,Water Testing Lab,Fouser Environmental Services,"165 Camden Avenue, Versailles, Kentucky 40383",,None,859-873-6211,lab@fouser.com,none
+-85.33536,37.21589,Water Testing Lab,Fouser Environmental Services,"555 Griffin Springs Rd. Campbellsville, KY 42718",,None,859-753-4101,AdairFES@gmail.com,scheduling not required during business hours
+-84.574768,37.874623,Water Testing Lab,Hall Environmental Consultants,"1376 Danville Loop 1 Road, Nicholasville, KY 40356",,None,859-885-3331,rshelley@hallenvironmental.net,"can arrange off-site sample drop-off, call to schedule"
+-86.107323,37.696362,Water Testing Lab,Hardin Co. Water District No. 1 (Pirtle Springs Lab),"1500 Shipley Road, Cecilia, KY 42724",,None,270-862-4340,cghoman@kcwd.com,none
+-86.03432,37.562802,Water Testing Lab,Hardin Co. Water District No. 2 (White Mills Lab),"1300 Cave Road, Glendale, KY 42740",,None,270-862-3213,WhiteMillsLab@hardincountywater2.org,none
+-86.469427,36.960447,Water Testing Lab,HydroAnalytical WKU,"2413 Nashville Road Suite 100, Bowling Green, KY 42101",,None,270-745-5287,ethan.givan@wku.edu,none
+-87.155513,36.651702,Water Testing Lab,Logan/Todd Regional Water Commission ,"248 Tower Street, Guthrie, KY 42234",,None,270-483-6990,tmccullough@ltrwc.org,none
+-88.641672,37.056605,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory","3038 Lone Oak Rd Suite 4, Paducah, KY 42003",Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,NO on-site sampling
+-84.44471,38.033936,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory","2456 Fortune Drive #160, Lexington, KY 40509",Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,NO on-site sampling
+-82.528632,37.461988,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory","173 Island Creek Rd Pikeville, KY 41501",Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,none
+-87.549713,37.359551,Water Testing Lab,"McCoy & McCoy Laboratories, a Pace Analytical Laboratory","825 Industrial Rd, Madisonville, KY 42431",Archie Fugate,Yes,270-821-7375 ext. 117,archie@mccoylabs.com,NO on-site sampling
+-84.525291,38.001179,Water Testing Lab,"Microbac Laboratories, Inc.","2520 Regency Road, Lexington, KY 40503",,Yes,859-276-3506,jarod.roop@microbac.com,NO on-site sampling
+-85.70193,38.17814,Water Testing Lab,"Microbac Laboratories, Inc.","3323 Gilmore Industrial Blvd. Louisville, KY 40213",,Yes,502-962-6400,joan.heinsohn@microbac.com,NO on-site sampling
+-88.5314,37.02061,Water Testing Lab,"Microbac Laboratories, Inc.","5309 Reidland Road, Paducah, KY 42003",,Yes,270-898-3637,David.Richardson@microbac.com,"can arrange off-site sample drop-off, call to schedule, NO on-site sampling"
+-82.601102,38.397602,Water Testing Lab,"Mineral Labs, Inc.","13127 Old US 23, Catlettsburg, KY 41129",,None,606-739-8611,sharlonda@minerallabs.com,Must pre-arrange sample drop-off
+-83.4535,36.8267,Water Testing Lab,"Mineral Labs, Inc.","980 Hwy 3449, Coldiron, KY 40819",,None,606-664-3853,sharlonda@minerallabs.com,Must pre-arrange sample drop-off
+-83.1932,37.2495,Water Testing Lab,"Mineral Labs, Inc.","1845 South KY Hwy 476, Hazard, KY 41702",,None,606-487-9950,sharlonda@minerallabs.com,Must pre-arrange sample drop-off
+-82.415216,37.558273,Water Testing Lab,"Mineral Labs, Inc.","2062 State Hwy 194E, Meta, KY 41501",,None,606-631-1414,sharlonda@minerallabs.com,Must pre-arrange sample drop-off
+-83.069311,37.746311,Water Testing Lab,"Mineral Labs, Inc.","309 Parkway Dr., Salyersville, KY 41465 ",,None,606-349-6145,sharlonda@minerallabs.com,none
+-83.436333,38.191159,Water Testing Lab,Morehead State University Water Testing Lab,"444 Ashland Avenue, Morehead, KY 40351",,None,606-783-2961,jrmason@moreheadstate.edu,none
+-84.564792,39.007922,Water Testing Lab,Pace Analytical Laboratory,"931 Dudley Road, Edgewood, KY 41017",,Yes,859-341-9989,nick.geisel@pacelabs.com,none
+-84.49338,38.07914,Water Testing Lab,Venture Laboratories,"848 Nandino Blvd. Ste. K Lexington, KY 40511",,None,859-281-6330,knewman@ventlabs.com,none
+-87.115106,37.764758,Water Testing Lab,"Waters Agricultural Laboratories, Inc. ","2101 Calhoun Road, Owensboro, KY 42301",,None,270-685-4039,kyinfo@watersag.com,NO on-site sampling
