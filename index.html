@@ -32,7 +32,7 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
   <style>
   #map {
-    background: #448ee4;
+    background: #ffffff;
     width: 100%;
   }
   #title {
@@ -254,6 +254,7 @@
   <script src="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js"></script>
   <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
   <script src="https://rawgit.com/MarcChasse/leaflet.ScaleFactor/master/leaflet.scalefactor.min.js"></script>
+  <script src="js/leaflet-providers.js"></script>
   <script>
 
   // initialize map, centered on KY
@@ -270,15 +271,9 @@
       maxZoom: 18,
     });
 
-  // mapbox API access Token
-    var accessToken = 'pk.eyJ1Ijoia29uc29sdXMiLCJhIjoiY2pnd2d2dXJrMTk4MzMzcGRmNjl6enpmYyJ9.MC43t60Y6axGbi32YET_tA'
 
-  // request a mapbox raster tile layer and add to map
-  L.tileLayer('https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.{ext}', {
-  	minZoom: 0,
-  	maxZoom: 18,
-	    ext: 'png'
-    }).addTo(map);
+  // request a mapbox raster tile layer and add to map (removed / none currently)
+
 
   // set display style for county polygons
     var countyStyle = {
